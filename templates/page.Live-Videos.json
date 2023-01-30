@@ -1,0 +1,136 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "c2655794-8ddc-4506-9ca9-b5095bcc1333": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_7.webp",
+        "mobile_image": "shopify:\/\/shop_images\/Image_7.webp",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "kicker": "",
+        "title": "Live Videos",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "64520544-583c-4303-bbb4-e5ca8a554fc5": {
+      "type": "text-with-video",
+      "settings": {
+        "vertical_text": "CHECK THE LATEST VIDEOS",
+        "video_url": "",
+        "video_poster": "shopify:\/\/shop_images\/Image_8.webp",
+        "title": "Trending Right Now",
+        "subtitle": "NIKKI BERNS",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 100
+      }
+    },
+    "ad7adede-1d50-4ffb-bbb9-0942fe086956": {
+      "type": "view-all-video",
+      "settings": {
+        "video_url": "",
+        "video_poster": "shopify:\/\/shop_images\/Video_1.png",
+        "title": "VIEW ALL VIDEOS",
+        "subtitle": "BROWSE OUR LATEST WORKS",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 100
+      }
+    },
+    "37db2842-34c9-4f97-898b-735c824d661b": {
+      "type": "text-with-video",
+      "settings": {
+        "vertical_text": "CHECK THE LATEST VIDEOS",
+        "video_url": "",
+        "video_poster": "shopify:\/\/shop_images\/Image_9.webp",
+        "title": "Mia Harris",
+        "subtitle": "FEATURED VIDEO SETS",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 100
+      }
+    },
+    "f4e619c5-54fd-4d32-81cd-974543e4f9c1": {
+      "type": "latest-top-tens",
+      "blocks": {
+        "c66b3aaa-50f8-4ec5-a4ce-3eb6e2567888": {
+          "type": "video-item",
+          "settings": {
+            "video_url": "",
+            "video_poster": "shopify:\/\/shop_images\/Image_1.png",
+            "title": "Nata Brown",
+            "subtitle": "10\/13"
+          }
+        },
+        "6b4f2b98-b98f-4246-95d2-7af1dba8a1d8": {
+          "type": "video-item",
+          "settings": {
+            "video_url": "",
+            "video_poster": "shopify:\/\/shop_images\/Image.png",
+            "title": "Nika Berns",
+            "subtitle": "10\/13"
+          }
+        }
+      },
+      "block_order": [
+        "c66b3aaa-50f8-4ec5-a4ce-3eb6e2567888",
+        "6b4f2b98-b98f-4246-95d2-7af1dba8a1d8"
+      ],
+      "settings": {
+        "title": "The Latest Top Tens",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "padding_top_mobile": 90,
+        "padding_bottom_mobile": 90
+      }
+    },
+    "ada75601-4252-40a7-bcd2-9bbedea3ef8f": {
+      "type": "title-content",
+      "settings": {
+        "top_title": "HEY",
+        "title": "Talk to me",
+        "sub_title1": "if you have some ideas for",
+        "effect_text": "ANY",
+        "sub_title2": "things you like",
+        "content": "<p>I AM ALWAYS OPEN TO NEW COLLABORATIONS WITH BRANDS, MODELS AND CREATIVES<\/p> <br>\n<p>YOU KNOW WHAT DO DO - JUST DROP ME A LINE<\/p>",
+        "bg": "palette--gray"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c2655794-8ddc-4506-9ca9-b5095bcc1333",
+    "64520544-583c-4303-bbb4-e5ca8a554fc5",
+    "ad7adede-1d50-4ffb-bbb9-0942fe086956",
+    "37db2842-34c9-4f97-898b-735c824d661b",
+    "f4e619c5-54fd-4d32-81cd-974543e4f9c1",
+    "ada75601-4252-40a7-bcd2-9bbedea3ef8f"
+  ]
+}

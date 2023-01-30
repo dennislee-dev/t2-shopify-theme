@@ -17,7 +17,7 @@
 }
 
 .product__grid__title {
-  font-family: BebasNeue-Regular !important;
+  font-family: "BebasNeue-Regular" !important;
   font-size: 28px;
   font-weight: 400;
   line-height: 1;
@@ -45,7 +45,7 @@
 }
 
 .meetme-title {
-  font-family: "futura pt";
+  font-family: "Futura";
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
@@ -64,7 +64,7 @@
 }
 
 .my-name {
-  font-family: BebasNeue-Regular !important;
+  font-family: "BebasNeue-Regular" !important;
   font-size: 28px;
   font-weight: 400;
   line-height: 1;
@@ -92,7 +92,7 @@
 }
 
 .grid__title {
-  font-family: BebasNeue-Regular !important;
+  font-family: "BebasNeue-Regular" !important;
   font-size: 76px;
   font-weight: bold;
   line-height: 99px;
@@ -108,7 +108,7 @@
 }
 
 .grid__grid-title {
-  font-family: "futura pt";
+  font-family: "Futura";
   font-size: 24px;
   font-weight: 500;
   line-height: 24px;
@@ -128,7 +128,7 @@
 }
 
 .grid__description {
-  font-family: "futura pt";
+  font-family: "Futura";
   font-size: 20px;
   font-weight: 400;
   line-height: 76px;
@@ -141,7 +141,7 @@
 }
 
 .user_profile-title {
-  font-family: "futura pt";
+  font-family: "Futura";
   font-size: 24px;
   font-weight: 500;
   line-height: 24px;
@@ -159,7 +159,7 @@
 }
 
 .user-contact-info {
-  font-family: BebasNeue-Regular !important;
+  font-family: "BebasNeue-Regular" !important;
   font-size: 28px;
   font-weight: bold;
   line-height: 1;
@@ -205,7 +205,7 @@
 }
 
 .product__grid__title-caption {
-  font-family: BebasNeue-Regular !important;
+  font-family: "BebasNeue-Regular" !important;
   font-size: 43px;
   font-weight: bold;
   line-height: 1;
@@ -217,7 +217,7 @@
 }
 
 .product__grid__price-caption {
-  font-family: "futura pt";
+  font-family: "Futura";
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
