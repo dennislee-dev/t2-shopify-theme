@@ -70,26 +70,24 @@
 								<p class="user-description">{{ block.settings.description }}</p>
 							</div>
 					</div>
-			{% endif %}
-			{%- if block.type == 'product_caption' -%}
-				<div
-					class="product-grid-item helper-content"
-					data-grid-item
-				>
-					<div>
-						<div data-grid-slide>
-							<img src="{{ block.settings.image | img_url: '1000x' }}" class="product-image" alt="image-text-grid-caption-image">
-						</div>
-						<div class="product__grid__info-caption product__grid__info--under">
-							<p class="product__grid__title-caption">
-								<span>{{ block.settings.title }}</span>
-							</p>
-							<p class="product__grid__price-caption">{{ block.settings.subtitle }}</p>
-						</div>
-					</div>
-				</div>
-			{%- endif -%}
-    {% endfor %}
+			  {% endif %}
+        {% if block.type == 'product_caption' %}
+          <div class="product-grid-item helper-content" data-grid-item>
+            <div>
+              <div data-grid-slide>
+                <img src="{{ block.settings.image | img_url: '1000x' }}" class="product-image" alt="image-text-grid-caption-image">
+              </div>
+              <div class="product__grid__info-caption product__grid__info--under">
+                <p class="product__grid__title-caption">
+                  <span>{{ block.settings.title }}</span>
+                </p>
+                <p class="product__grid__price-caption">{{ block.settings.subtitle }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>
 

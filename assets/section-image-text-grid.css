@@ -17,7 +17,7 @@
 }
 
 .product__grid__title {
-  font-family: "bebas neue";
+  font-family: BebasNeue-Regular !important;
   font-size: 28px;
   font-weight: 400;
   line-height: 1;
@@ -64,7 +64,7 @@
 }
 
 .my-name {
-  font-family: "bebas neue";
+  font-family: BebasNeue-Regular !important;
   font-size: 28px;
   font-weight: 400;
   line-height: 1;
@@ -92,7 +92,7 @@
 }
 
 .grid__title {
-  font-family: "bebas neue";
+  font-family: BebasNeue-Regular !important;
   font-size: 76px;
   font-weight: bold;
   line-height: 99px;
@@ -159,7 +159,7 @@
 }
 
 .user-contact-info {
-  font-family: "bebas neue";
+  font-family: BebasNeue-Regular !important;
   font-size: 28px;
   font-weight: bold;
   line-height: 1;
@@ -205,7 +205,7 @@
 }
 
 .product__grid__title-caption {
-  font-family: "bebas neue";
+  font-family: BebasNeue-Regular !important;
   font-size: 43px;
   font-weight: bold;
   line-height: 1;

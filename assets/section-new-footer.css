@@ -40,7 +40,7 @@
 }
 
 .footer-custom-links a {
-  font-family: "bebas neue";
+  font-family: BebasNeue-Regular !important;
   font-size: 60px;
   font-weight: 400;
   line-height: 1;
