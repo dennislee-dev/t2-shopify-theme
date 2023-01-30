@@ -1,0 +1,164 @@
+<div class="featured-cold cs-{{ section.id }}">
+  <div class="featured-cold1">
+    {{ section.settings.text }}
+  </div>
+  <div class="featured-cold2">
+    <a href="{{ section.settings.link }}">
+      <img src="{{ section.settings.image | img_url:'master' }}">
+      <div class="bottom-div">
+        <h4>{{ section.settings.title }}</h4>
+        <p>{{ section.settings.sub-heading }}</p>
+      </div>
+    </a>
+    
+    <div class="white-cont">
+      <div class="box-content">
+        {{ section.settings.html }}
+          {{ section.settings.html1 }}
+      </div>
+    </div>
+    
+  </div>
+  <div class="featured-cold3">
+  </div>
+</div>
+<style>
+  .featured-cold
+  {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    padding:50px 5%;
+  }
+  .featured-cold1,.featured-cold3
+  {
+     width:20%;
+     max-width:20%;
+    text-align:left;
+  }
+  .featured-cold1 p
+  {
+    writing-mode: tb-rl;
+    transform: rotate(180deg);
+  }
+  .featured-cold2
+  {
+    width:60%;
+    max-width:60%;
+    text-align:left;
+    position:relative;
+  }
+  .featured-cold2 img
+  {
+    max-width:100%;
+    width:100%;
+  }
+  .bottom-div
+  {
+    border-top:2px solid #4C4B4C;
+    border-bottom:2px solid #4C4B4C;
+    margin:20px 0px;
+  }
+  .featured-cold .white-cont
+  {
+    max-width: 470px;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: white;
+    position: absolute;
+    top: 20%;
+    right: -250px;
+  }
+  .featured-cold .box-content
+  {
+    border:4px solid #EBA443;
+    padding:20px;
+    text-align:center;
+  }
+  .white-cont p
+  {
+    margin-bottom: 3px;
+    margin-top: 3px;
+  }
+  @media screen and (max-width:1050px)
+  {
+   .featured-cold1 p
+    {
+      writing-mode: horizontal-tb;
+      transform: rotate(0deg);
+      text-align: center;
+   }
+    .featured-cold1,.featured-cold2
+    {
+      width:100%;
+      max-width:100%;
+    }
+    .featured-cold3
+    {
+      display:none;
+    }
+    .featured-cold .white-cont
+    {
+      max-width: 500px;
+      margin: 0px auto;
+      padding: 0px;
+      background-color: white;
+      position: relative;
+      top: 0px;
+      right: 0px;
+    }
+  }
+  @media screen and (max-width:768px)
+  {
+    .featured-cold .white-cont
+    {
+      max-width:100%;
+    }
+  }
+</style>
+{% schema %}
+{
+  "name": "featured-cold",
+  "settings": [
+    {
+          "type": "richtext",
+          "id": "text",
+          "label": "Text"
+    },
+    {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+    },
+    {
+          "type": "text",
+          "id": "title",
+          "label": "Heading"
+    },
+    {
+          "type": "text",
+          "id": "sub-heading",
+          "label": "Sub-Heading"
+    },
+    {
+          "type": "url",
+          "id": "link",
+          "label": "Link"
+    },
+    {
+      "type": "liquid",
+      "id": "html",
+      "label": "Custom HTML",
+      "default": "<div style='text-align: center; padding: 90px 0;'><h2 class='home__subtitle'>Custom HTML</h2><p>Add your custom HTML here.</p></div>"
+    }
+    
+  ],
+  "presets": [
+    {
+      "category": "Text",
+      "name": "featured-cold"
+    }
+  ]
+}
+{% endschema %}

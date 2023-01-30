@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "customer-login",
+      "settings": {
+      }
+    },
+    "56c354d6-58fc-4e04-85e8-5cae88c7c48f": {
+      "type": "featured-tabs",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "56c354d6-58fc-4e04-85e8-5cae88c7c48f"
+  ]
+}

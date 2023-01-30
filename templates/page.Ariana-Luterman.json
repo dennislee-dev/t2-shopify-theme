@@ -1,0 +1,104 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--white",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1845d2c3-a8ef-492d-b8f9-683208408e14": {
+      "type": "profile-one",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_14_df347038-e7ff-4963-9e94-3e7a42ce87e9.gif",
+        "logo": "shopify:\/\/shop_images\/Ariana_Luterman.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "title": "Ariana Luterman",
+        "title1": "",
+        "kicker": "Introducing",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "16648922938c347e91": {
+      "type": "tab_blogs",
+      "blocks": {
+        "c71d39c2-0cfa-489c-9f4d-00fe954af3c2": {
+          "type": "block-2",
+          "settings": {
+            "showconten": false,
+            "accessc": "FEATURED",
+            "img1": "shopify:\/\/shop_images\/61HFdDiTRIL._SX679.jpg",
+            "link_url1": "https:\/\/www.amazon.com\/Melis-Original-Certified-Gluten-Free-Chocolate\/dp\/B08GHXGYP5\/ref=asc_df_B08GHXGYP5\/?tag=hyprod-20&linkCode=df0&hvadid=475718188056&hvpos=&hvnetw=g&hvrand=14263415910024566774&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1021047&hvtargid=pla-1186462824953&psc=1",
+            "img2": "shopify:\/\/shop_images\/SOOR-WU31_V1_1.webp",
+            "link_url2": "https:\/\/www.revolve.com\/supergoop-unseen-sunscreen-spf-40\/dp\/SOOR-WU31\/?d=F&currency=USD&countrycode=US&gclid=CjwKCAiA7IGcBhA8EiwAFfUDsTu27PmptpGrSohzUxbiytga48Z9vIbxPLrn95RZ01cniZxClReJ1hoCHYgQAvD_BwE&gclsrc=aw.ds",
+            "img3": "shopify:\/\/shop_images\/001879_AS-SL002BSH_BLUSH_01.jpg",
+            "link_url3": "https:\/\/www.altardstate.com\/as\/accessories\/shoes-%2B-sandals\/slippers\/smiley-face-slippers\/1002335162.html?gclid=CjwKCAiA7IGcBhA8EiwAFfUDsfmkB9-L5e2vKtuQM6kbDYjP8SSm2LINotlLkTbBpzx_WD31Pwo4kxoCwooQAvD_BwE",
+            "img4": "shopify:\/\/shop_images\/global-20221202-grid1-fg-bd1-gifting-season-xs.png",
+            "link_url4": "https:\/\/www.bestbuy.com\/site\/yogasleep-rohm-travel-sound-machine-white\/6436662.p?skuId=6436662&ref=212&loc=1&ref=212&loc=1&gclid=CjwKCAiA7IGcBhA8EiwAFfUDsbgh25idSB9hho-oCfY-uTiT6Kl4LKH3hHGZ8InYWGw-ACZl2xBBpRoCPB8QAvD_BwE&gclsrc=aw.ds",
+            "img5": "shopify:\/\/shop_images\/Hammer-Nutrition-Endurolytes-120-capsules-768x768.webp",
+            "link_url5": "https:\/\/findyourhealthyplace.com\/product\/hammer-nutrition-endurolytes\/?gclid=CjwKCAiA7IGcBhA8EiwAFfUDsYc7ms6cj_l0NaNv9_R_F-PG1wc21wGFMGZ4gdJEad25VhewCwud4RoCRiwQAvD_BwE",
+            "img6": "shopify:\/\/shop_images\/our-dates-1-updated.webp",
+            "link_url6": "https:\/\/coachellasbestdates.com\/pages\/our-dates",
+            "img7": "shopify:\/\/shop_images\/2104cfe9-9188-4dc3-8919-636ad3e827a3.webp",
+            "link_url7": "https:\/\/www.nike.com\/t\/dunk-high-1985-shoes-rsx4JL\/DV1143-800?nikemt=true&cp=26442424969_search_%7CPRODUCT_GROUP%7CGOOGLE%7C71700000098766171%7CAll_X_X_X_X-Device_X_Nike-FullPrice_X_SSC%7C%7Cc&gclsrc=aw.ds&&gclid=CjwKCAiA7IGcBhA8EiwAFfUDsUZKhTRFL_3UOXHbY7UDRB49B8fK1bksKQflrBdvu62Mu2T63qbj1RoCIN4QAvD_BwE&gclsrc=aw.ds",
+            "img8": "shopify:\/\/shop_images\/bando-il-fw22-12-month-medium-planner-progress-not-perfection-01_1024x1024_b68730ad-0e8f-4396-ae36-ecaacdb2c3af.webp",
+            "link_url8": "https:\/\/www.bando.com\/products\/medium-12-month-planner-mod?gclid=CjwKCAiA7IGcBhA8EiwAFfUDsao0VFJPgjHuyArtiJ4l6FUIso2sBv1fkhu7gemEKI6QaORgvM8ufRoC9ccQAvD_BwE",
+            "link_url9": "",
+            "link_url10": "",
+            "heading1": "Top Ten Ariana Luterman",
+            "sub-heading1": "",
+            "img11": "shopify:\/\/shop_images\/DP-17012-017.jpg",
+            "link_url11": "https:\/\/www.metmuseum.org\/exhibitions\/listings\/2020\/british-galleries#:~:text=Exhibition%20Overview,created%20between%201500%20and%201900.",
+            "img12": "shopify:\/\/shop_images\/71zXYBpsuVL._AC_SL1500.jpg",
+            "link_url12": "https:\/\/www.amazon.com\/Barefoot-Dreams-CozyChic-Throw-Cream\/dp\/B005ABX0NS",
+            "img13": "shopify:\/\/shop_images\/CHA624803_1_enlarged.jpg",
+            "link_url13": "https:\/\/www.therealreal.com\/products\/women\/shoes\/sandals\/chanel-2021-quilted-denim-sandals-slingback-sandals-bdy1a?sid=pxogmz&utm_source=Google&utm_medium=shopping&cvosrc=cse.google.google&cvo_crid=453344066284&utm_campaign=shopping_200&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY-BsLcllJ778tKkIMhdkxfc3NuNGgRG2EcBPuPMtZon6OhI0R_J-y4aAmTQEALw_wcB",
+            "img14": "shopify:\/\/shop_images\/bella_blu.jpg",
+            "link_url14": "https:\/\/www.bellablunyc.com\/",
+            "img15": "shopify:\/\/shop_images\/s2249779-main-zoom.jpg",
+            "link_url15": "https:\/\/www.sephora.com\/product\/libre-eau-de-parfum-P448102?country_switch=us&lang=en&skuId=2249779&om_mmc=ppc-GG_1918213323_68906954085_pla-418385531910_2249779_353573794529_1021129_c&ds_rl=1261471&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY8Q4wosCihXCopM6hPEA47y_djHK1AZDlUb7OlnnxUAiwucLCGGIOYaAgvwEALw_wcB&gclsrc=aw.ds",
+            "img16": "shopify:\/\/shop_images\/81gWcEhDfIL._AC_UL1500.jpg",
+            "link_url16": "https:\/\/www.amazon.com\/Rangers-47-Clean-Adjustable-Royal\/dp\/B00CTEPQNQ\/ref=sr_1_2?crid=107S36EL6U9TJ&keywords=rangers+hat&qid=1657425012&sprefix=rangers+hat%2Caps%2C86&sr=8-2",
+            "img17": "shopify:\/\/shop_images\/ILXhy47dQ4yZAwEJI56k_Home_page_Indo.jpg",
+            "link_url17": "https:\/\/www.indochinenyc.com\/",
+            "img18": "shopify:\/\/shop_images\/0143126687.01._SCLZZZZZZZ_SX500.jpg",
+            "link_url18": "https:\/\/www.amazon.com\/Truth-About-Harry-Quebert-Affair\/dp\/0143126687",
+            "img19": "shopify:\/\/shop_images\/s2427110-main-zoom.jpg",
+            "link_url19": "https:\/\/www.sephora.com\/product\/one-size-by-patrick-starrr-secure-blur-hydrating-under-eye-patches-P468395?country_switch=us&lang=en&skuId=2427110&om_mmc=ppc-GG_1918213323_114417900931_pla-1212528922078_2427110_463343130707_1021129_c&ds_rl=1261471&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY-e0GNhAIl8pqSL35joJ4ibO3tCtvZaE1ml8nDOY_FAZWkRAjxnIwgaAs5KEALw_wcB&gclsrc=aw.ds",
+            "img20": "shopify:\/\/shop_images\/IMG_3748_2888930e-e600-4380-a4cd-555f18c42237.jpg",
+            "link_url20": "",
+            "heading2": "Top Ten Hope Chilton",
+            "sub-heading2": ""
+          }
+        }
+      },
+      "block_order": [
+        "c71d39c2-0cfa-489c-9f4d-00fe954af3c2"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1845d2c3-a8ef-492d-b8f9-683208408e14",
+    "16648922938c347e91"
+  ]
+}

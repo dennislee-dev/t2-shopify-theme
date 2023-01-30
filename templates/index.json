@@ -1,0 +1,234 @@
+{
+  "sections": {
+    "1660380503ba04e3dc": {
+      "type": "custom-image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_17.gif",
+        "logo": "shopify:\/\/shop_images\/IMG_3206.png",
+        "bg_position": "center-center",
+        "height": "use_screen_full",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "",
+        "title1": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "166149232574405903": {
+      "type": "splash",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1660385520f78d6a4a": {
+      "type": "custom-about",
+      "settings": {
+        "text": "ABOUT TSQUARED",
+        "html1": "",
+        "html": "<div style='text-align: center;'><h2 class='hero__title h2'>showcase your favourite things\n<br> in a top ten list<br><br><a href=\"#\" class=\"makes\">MAKE<\/a>your list<\/h2>\n<\/div>",
+        "full_width": false
+      }
+    },
+    "16603831709af6b8ad": {
+      "type": "custom-links",
+      "settings": {
+        "image1": "shopify:\/\/shop_images\/IMG_3689.jpg",
+        "image2": "shopify:\/\/shop_images\/IMG_3722.jpg",
+        "image3": "shopify:\/\/shop_images\/IMG_3723.jpg",
+        "image4": "shopify:\/\/shop_images\/IMG_3717.jpg",
+        "image5": "shopify:\/\/shop_images\/IMG_3680_2.jpg",
+        "title1": "",
+        "link1": "#",
+        "title2": "FEATURED",
+        "link2": "shopify:\/\/pages\/features",
+        "title3": "WELL",
+        "link3": "shopify:\/\/pages\/well",
+        "title4": "COLOR",
+        "link4": "shopify:\/\/pages\/color",
+        "title5": "SEASON",
+        "link5": "shopify:\/\/pages\/season",
+        "title6": "STYLE",
+        "link6": "shopify:\/\/pages\/style",
+        "title7": "TRAVEL",
+        "link7": "shopify:\/\/pages\/travel"
+      }
+    },
+    "166038651794b73803": {
+      "type": "section-video",
+      "settings": {
+        "height": "use_screen_three_quarters",
+        "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/107555e9d4664d07b05fbf9f53979489.mov",
+        "object_position": "center-center",
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_18.gif",
+        "bg_position": "center-center",
+        "video_link": "",
+        "popup_text": "",
+        "kicker": "",
+        "title": "",
+        "richtext": "<p><strong>Playing “what’s your favorite” at a dinner party with friends new & old. Welcome to T2.<\/strong><\/p>",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "1660388869c241ee79": {
+      "type": "custom-list",
+      "settings": {
+        "sub-heading": "",
+        "title1": "DEMOCRATIZED",
+        "title2": "Sharing",
+        "title3": "Environment",
+        "sub-title1": "SEASON",
+        "sub-link1": "",
+        "sub-title2": "COLOR",
+        "sub-link2": "",
+        "sub-title3": "WELL",
+        "sub-link3": "",
+        "sub-title4": "STYLE",
+        "sub-link4": "",
+        "sub-title5": "TRAVEL",
+        "sub-link5": "",
+        "sub-title6": "",
+        "sub-link6": "",
+        "sub-title7": "",
+        "sub-link7": "",
+        "sub-title8": "",
+        "sub-link8": ""
+      }
+    },
+    "1660396408c10827ce": {
+      "type": "custom-grid-first",
+      "blocks": {
+        "cdeb6d7f-c0b4-49dd-bcff-231a50e44bf6": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/94476LoLa41PalmBeach_exterior.jpg",
+            "link": "https:\/\/www.lola41.com\/location\/lola-41-palm-beach\/"
+          }
+        },
+        "421cf7c7-01b5-4d42-a46e-be5da639f2e7": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-31_at_11.14.55_AM.png",
+            "link": "https:\/\/www.beautycounter.com\/product\/counter-plus-lotus-glow-cleansing-balm"
+          }
+        },
+        "9f57b7d8-4b28-4d10-85bf-31464d8909e4": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chance-eau-fraiche-eau-de-toilette-spray-3-4fl-oz--packshot-default-136420-8848377446430.png",
+            "link": "https:\/\/www.chanel.com\/us\/fragrance\/women\/c\/7x1x1x33\/chance-eau-fraiche\/"
+          }
+        },
+        "8b8c0e2f-af89-4288-bb4e-17bcdc616638": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.jpg",
+            "link": "https:\/\/www.sakara.com\/products\/detox-water-drops?variant=39566245036141"
+          }
+        },
+        "826a517f-0ddb-4076-9748-2447d7da13ff": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3815.jpg",
+            "link": "https:\/\/royalhighnies.com\/collections\/ladies\/products\/the-original-lounge-top"
+          }
+        },
+        "3af864ea-10ea-41c0-8002-7c234f51ce98": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3863.jpg",
+            "link": "https:\/\/shopdailydrills.com\/products\/bubble-bra-metallic"
+          }
+        },
+        "bc8d1f4a-da66-4528-9f52-ef2ce647bf03": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3814.jpg",
+            "link": "https:\/\/cecelianewyork.com\/products\/hibicsus-2?variant=31830491365461&cmp_id=15014751776&adg_id=129973178138&kwd=&device=c&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvxnT7hlLHgrr6oixlIssf45f1zLkzcqgVoIu7FherkAN1WS9VaYazoaAmhjEALw_wcB"
+          }
+        },
+        "9b06ec50-0c7f-4f9c-bf19-595fbb2a616a": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_BALTHAZAR-EATER-SCENES-Daniel-Krieger-1010_CROP1.jpg",
+            "link": "https:\/\/balthazarny.com\/"
+          }
+        },
+        "3b5db05c-dfce-4bcb-8302-82c2ba81efb0": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bdaybox1.jpg",
+            "link": "https:\/\/www.bakedbymelissa.com\/gifts\/birthday\/birthday-cupcakes\/birthday-gift-box-25.html"
+          }
+        },
+        "ee73b473-0ace-4800-825f-6bce193b9bb6": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GUEST_d246651e-d425-4a0b-84e2-dba3add67b54.jpg",
+            "link": "https:\/\/www.target.com\/p\/santa-margherita-pinot-grigio-white-wine-750ml-bottle\/-\/A-13378636"
+          }
+        }
+      },
+      "block_order": [
+        "cdeb6d7f-c0b4-49dd-bcff-231a50e44bf6",
+        "421cf7c7-01b5-4d42-a46e-be5da639f2e7",
+        "9f57b7d8-4b28-4d10-85bf-31464d8909e4",
+        "8b8c0e2f-af89-4288-bb4e-17bcdc616638",
+        "826a517f-0ddb-4076-9748-2447d7da13ff",
+        "3af864ea-10ea-41c0-8002-7c234f51ce98",
+        "bc8d1f4a-da66-4528-9f52-ef2ce647bf03",
+        "9b06ec50-0c7f-4f9c-bf19-595fbb2a616a",
+        "3b5db05c-dfce-4bcb-8302-82c2ba81efb0",
+        "ee73b473-0ace-4800-825f-6bce193b9bb6"
+      ],
+      "settings": {
+        "title": "",
+        "html": "<h4 class=\"hero__title \">\n   Top Ten Arlo Gray<sup style=\"top:-15px;font-size:15px\"><\/sup>\n    \n  <\/h4>",
+        "html1": "<p>Lola41 Palm Beach<\/p>\n<p>Beautycounter Cleansing Balm<\/p>\n<p>Chanel Chance Eau Fraîche Perfume<\/p>\n<p>SAKARA Detox Drops<\/p>\n<p>Royal Highnies Original Lounge Top Pajamas<\/p>\n<p>Daily Drills Bubble Bra<\/p>\n<p>Cecilia New York flower heels<\/p>\n<p> Balthazar <\/p>\n<p>Baked by Melissa<\/p>\n<p>Santa Margherita Pinot Grigio<\/p>",
+        "heading": "@arlogray",
+        "link-title": "",
+        "link": "#"
+      }
+    },
+    "16604004202e683382": {
+      "type": "custom-text-plus",
+      "settings": {
+        "heading": "arlo gray",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum tempore vero error accusantium possimus, tenetur necessitatibus adipisci distinctio quidem quam numquam laborum, nisi aut ea sed est magnam consectetur similique? Sed, nemo delectus? Natus enim impedit itaque illo eum, voluptate obcaecati harum, in nesciunt maiores temporibus similique nihil, quaerat dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, totam corrupti quisquam eveniet asperiores ex molestiae architecto suscipit molestias! At?",
+        "link-title": "SHOP ALL",
+        "link": "#"
+      }
+    },
+    "166125398351ceac10": {
+      "type": "section-html",
+      "settings": {
+        "html": "<div >\n<br><br>\n      <p>HEY<\/p>\n      <br><br>\n      <h2>A Top Ten is a look into someone’s life-\n<br>\nthe tote bag that keeps them organized,\n<br>  \nthe song they had their first dance to, an avocado slicer.<\/h2><br><br>\n      <p><\/p>\n<p><\/p>\n<p><\/p>\n<br>\n<p><a href=\"#\" class=\"here\">CONTACT US<\/a>\n<\/p>\n  <\/div>\n<br><br>",
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "1660380503ba04e3dc",
+    "166149232574405903",
+    "1660385520f78d6a4a",
+    "16603831709af6b8ad",
+    "166038651794b73803",
+    "1660388869c241ee79",
+    "1660396408c10827ce",
+    "16604004202e683382",
+    "166125398351ceac10"
+  ]
+}

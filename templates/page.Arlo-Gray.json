@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--white",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1845d2c3-a8ef-492d-b8f9-683208408e14": {
+      "type": "profile-one",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_14_df347038-e7ff-4963-9e94-3e7a42ce87e9.gif",
+        "logo": "shopify:\/\/shop_images\/sophie-schaffler.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "title": "Arlo Gray",
+        "title1": "",
+        "kicker": "Introducing",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "16648922938c347e91": {
+      "type": "tab_blogs",
+      "blocks": {
+        "c71d39c2-0cfa-489c-9f4d-00fe954af3c2": {
+          "type": "block-2",
+          "settings": {
+            "showconten": false,
+            "accessc": "FEATURED",
+            "profile1": "shopify:\/\/shop_images\/Arlo_Gray_Feature_e3e5b0b0-8e4e-4d45-b379-0be644f17d8c.jpg",
+            "profile2": "shopify:\/\/shop_images\/Browning_Clark_Feature_c4ec76be-77ba-48df-88e8-935ab6973a67.jpg",
+            "img1": "shopify:\/\/shop_images\/94476LoLa41PalmBeach_exterior_582cdd9a-92a9-493b-9e4c-83393b4e877f.jpg",
+            "link_url1": "https:\/\/www.lola41.com\/location\/lola-41-palm-beach\/",
+            "img2": "shopify:\/\/shop_images\/product-images_100000343_imgs_COUNTER__LOTUS_GLOW_CLEANSING_BALM_02_PDP.jpg",
+            "link_url2": "https:\/\/www.beautycounter.com\/product\/counter-plus-lotus-glow-cleansing-balm",
+            "img3": "shopify:\/\/shop_images\/8821262712862.webp",
+            "link_url3": "https:\/\/www.chanel.com\/us\/fragrance\/women\/c\/7x1x1x33\/chance-eau-fraiche\/",
+            "img4": "shopify:\/\/shop_images\/download_3.jpg",
+            "link_url4": "https:\/\/www.sakara.com\/products\/detox-water-drops?variant=39566245036141",
+            "img5": "shopify:\/\/shop_images\/loungeTop_600x_b919083c-f3e6-4e3a-a3c7-293a0959cec0.jpg",
+            "link_url5": "https:\/\/royalhighnies.com\/collections\/ladies\/products\/the-original-lounge-top",
+            "img6": "shopify:\/\/shop_images\/546A1549.jpg",
+            "link_url6": "https:\/\/shopdailydrills.com\/collections\/sport\/products\/copy-of-bubble-bra",
+            "img7": "shopify:\/\/shop_images\/light_pink_newest_300x300_01f2a295-6235-4528-8a22-78ef15e64acd.png",
+            "link_url7": "https:\/\/cecelianewyork.com\/products\/hibicsus-2?variant=31830491365461&cmp_id=15014751776&adg_id=129973178138&kwd=&device=c&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvxnT7hlLHgrr6oixlIssf45f1zLkzcqgVoIu7FherkAN1WS9VaYazoaAmhjEALw_wcB",
+            "img8": "shopify:\/\/shop_images\/XMAS-POST-CARD.png",
+            "link_url8": "https:\/\/balthazarny.com\/",
+            "img9": "shopify:\/\/shop_images\/bdaybox1_d7a6b3ff-4d50-4891-a5e5-8b17ac0e35af.jpg",
+            "link_url9": "https:\/\/www.bakedbymelissa.com\/gifts\/birthday\/birthday-cupcakes\/birthday-gift-box-25.html",
+            "img10": "shopify:\/\/shop_images\/GUEST_d246651e-d425-4a0b-84e2-dba3add67b54.webp",
+            "link_url10": "https:\/\/www.target.com\/p\/santa-margherita-pinot-grigio-white-wine-750ml-bottle\/-\/A-13378636",
+            "heading1": "Top Ten Arlo Gray",
+            "sub-heading1": "",
+            "img11": "shopify:\/\/shop_images\/DP-17012-017.jpg",
+            "link_url11": "https:\/\/www.metmuseum.org\/exhibitions\/listings\/2020\/british-galleries#:~:text=Exhibition%20Overview,created%20between%201500%20and%201900.",
+            "img12": "shopify:\/\/shop_images\/71zXYBpsuVL._AC_SL1500.jpg",
+            "link_url12": "https:\/\/www.amazon.com\/Barefoot-Dreams-CozyChic-Throw-Cream\/dp\/B005ABX0NS",
+            "img13": "shopify:\/\/shop_images\/CHA624803_1_enlarged.jpg",
+            "link_url13": "https:\/\/www.therealreal.com\/products\/women\/shoes\/sandals\/chanel-2021-quilted-denim-sandals-slingback-sandals-bdy1a?sid=pxogmz&utm_source=Google&utm_medium=shopping&cvosrc=cse.google.google&cvo_crid=453344066284&utm_campaign=shopping_200&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY-BsLcllJ778tKkIMhdkxfc3NuNGgRG2EcBPuPMtZon6OhI0R_J-y4aAmTQEALw_wcB",
+            "img14": "shopify:\/\/shop_images\/bella_blu.jpg",
+            "link_url14": "https:\/\/www.bellablunyc.com\/",
+            "img15": "shopify:\/\/shop_images\/s2249779-main-zoom.jpg",
+            "link_url15": "https:\/\/www.sephora.com\/product\/libre-eau-de-parfum-P448102?country_switch=us&lang=en&skuId=2249779&om_mmc=ppc-GG_1918213323_68906954085_pla-418385531910_2249779_353573794529_1021129_c&ds_rl=1261471&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY8Q4wosCihXCopM6hPEA47y_djHK1AZDlUb7OlnnxUAiwucLCGGIOYaAgvwEALw_wcB&gclsrc=aw.ds",
+            "img16": "shopify:\/\/shop_images\/81gWcEhDfIL._AC_UL1500.jpg",
+            "link_url16": "https:\/\/www.amazon.com\/Rangers-47-Clean-Adjustable-Royal\/dp\/B00CTEPQNQ\/ref=sr_1_2?crid=107S36EL6U9TJ&keywords=rangers+hat&qid=1657425012&sprefix=rangers+hat%2Caps%2C86&sr=8-2",
+            "img17": "shopify:\/\/shop_images\/ILXhy47dQ4yZAwEJI56k_Home_page_Indo.jpg",
+            "link_url17": "https:\/\/www.indochinenyc.com\/",
+            "img18": "shopify:\/\/shop_images\/0143126687.01._SCLZZZZZZZ_SX500.jpg",
+            "link_url18": "https:\/\/www.amazon.com\/Truth-About-Harry-Quebert-Affair\/dp\/0143126687",
+            "img19": "shopify:\/\/shop_images\/s2427110-main-zoom.jpg",
+            "link_url19": "https:\/\/www.sephora.com\/product\/one-size-by-patrick-starrr-secure-blur-hydrating-under-eye-patches-P468395?country_switch=us&lang=en&skuId=2427110&om_mmc=ppc-GG_1918213323_114417900931_pla-1212528922078_2427110_463343130707_1021129_c&ds_rl=1261471&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY-e0GNhAIl8pqSL35joJ4ibO3tCtvZaE1ml8nDOY_FAZWkRAjxnIwgaAs5KEALw_wcB&gclsrc=aw.ds",
+            "img20": "shopify:\/\/shop_images\/IMG_3748_2888930e-e600-4380-a4cd-555f18c42237.jpg",
+            "link_url20": "",
+            "heading2": "Top Ten Hope Chilton",
+            "sub-heading2": ""
+          }
+        }
+      },
+      "block_order": [
+        "c71d39c2-0cfa-489c-9f4d-00fe954af3c2"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1845d2c3-a8ef-492d-b8f9-683208408e14",
+    "16648922938c347e91"
+  ]
+}

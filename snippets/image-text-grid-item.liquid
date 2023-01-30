@@ -1,0 +1,16 @@
+<div
+  class="product-grid-item helper-content"
+  data-grid-item
+>
+  <div>
+    <div data-grid-slide>
+      <img src="{{ image | img_url: '1000x' }}" class="product-image" alt="image-text-grid-item-image">
+    </div>
+    <div class="product__grid__info product__grid__info--under {{ settings.collection_text_alignment | default: 'text-center' }}">
+      <p class="product__grid__title">
+        <span>{{ title }}</span>
+      </p>
+      <p class="product__grid__price">{{ subtitle }}</p>
+    </div>
+  </div>
+</div>

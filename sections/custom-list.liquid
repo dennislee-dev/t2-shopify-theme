@@ -1,0 +1,199 @@
+<!-- /sections/section-html.liquid -->
+<div class="section-html-{{ section.id }} wrapper">
+  {% if section.settings.sub-heading %}
+    <h5>{{ section.settings.sub-heading }}</h5>
+  {% endif %}
+  <div class="leftt">
+    {% if section.settings.title1 != blank %}
+     <h2>{{ section.settings.title1 }}</h2>
+    {% endif %}
+    
+    {% if section.settings.title2 != blank %}
+     <h2>{{ section.settings.title2 }}</h2>
+    {% endif %}
+    
+    {% if section.settings.title3 != blank %}
+     <h2>{{ section.settings.title3 }}</h2>
+    {% endif %}
+    
+  </div>
+  <div class="rightt">
+    {% if section.settings.sub-title1 != blank %}
+     <a href="{{ section.settings.sub-link1 }}">{{ section.settings.sub-title1 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title2 != blank %}
+     <a href="{{ section.settings.sub-link2 }}">{{ section.settings.sub-title2 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title3 != blank %}
+     <a href="{{ section.settings.sub-link3 }}">{{ section.settings.sub-title3 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title4 != blank %}
+     <a href="{{ section.settings.sub-link4 }}">{{ section.settings.sub-title4 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title5 != blank %}
+     <a href="{{ section.settings.sub-link5 }}">{{ section.settings.sub-title5 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title6 != blank %}
+     <a href="{{ section.settings.sub-link6 }}">{{ section.settings.sub-title6 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title7 != blank %}
+     <a href="{{ section.settings.sub-link7 }}">{{ section.settings.sub-title7 }}</a>
+    {% endif %}
+    {% if section.settings.sub-title8 != blank %}
+     <a href="{{ section.settings.sub-link8 }}">{{ section.settings.sub-title8 }}</a>
+    {% endif %}
+  </div>
+</div>
+<style>
+  .section-html-{{section.id}}
+  {
+    display:flex;
+    justify-content:center;
+    align-items:baseline;
+    flex-wrap:wrap;
+    padding:50px 5%;
+  }
+  .leftt
+  {
+    width:50%;
+    text-align:left;
+  }
+  .leftt h2
+  {
+    text-decoration: underline;
+    margin-bottom: 15px;
+  }
+  .rightt
+  {
+    width:50%;
+    text-align:left;
+  }
+  .rightt a
+  {
+    margin-bottom:20px;
+    letter-spacing:1rem;
+    display:block;
+  }
+  @media screen and (max-width:768px)
+  {
+    .leftt,.rightt
+    {
+      width:100%;
+    }
+  }
+  
+</style>
+{% schema %}
+{
+  "name": "Custom List",
+  "settings": [
+    {
+      "type": "text",
+      "id": "sub-heading",
+      "label": "Sub Heading"
+    },
+    {
+      "type": "text",
+      "id": "title1",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "title2",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "title3",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "sub-title1",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link1",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title2",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link2",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title3",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link3",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title4",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link4",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title5",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link5",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title6",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link6",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title7",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link7",
+      "label": "Sub Link"
+    },
+    {
+      "type": "text",
+      "id": "sub-title8",
+      "label": "Sub Title"
+    },
+    {
+      "type": "text",
+      "id": "sub-link8",
+      "label": "Sub Link"
+    }
+    
+  ],
+  "presets": [
+    {
+      "category": "Text",
+      "name": "Custom List"
+    }
+  ]
+}
+{% endschema %}
