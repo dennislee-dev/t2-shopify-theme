@@ -24456,24 +24456,29 @@ body[style*="overflow: hidden"] .upsell__modal {
 
 @font-face {
   font-family: "BebasNeue-Regular";
-  src: url("BebasNeue Regular.ttf") format("ttf");
+  src: url("BebasNeue-Regular.ttf");
 }
 @font-face {
   font-family: 'Gambarino-Regular';
-  src:  url('Gambarino-Regular.woff') format('woff')
+  src:  url('Gambarino-Regular.otf');
 }
 @font-face {
   font-family: "Exmouth";
-  src: url("exmouth_.ttf") format("ttf");
+  src: url("exmouth_.ttf");
 }
 @font-face {
   font-family: "Futura";
-  src: url("Futura-Book-font.ttf") format("ttf");
+  src: url("Futura-Book-font.ttf");
 }
 @font-face {
   font-family: "Switzer-Black";
-  src: url("Switzer-Black.otf") format("otf");
+  src: url("Switzer-Black.otf");
 }
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("Poppins-Regular.ttf");
+}
+
 .beba {
   font-family: BebasNeue-Regular !important;
 }

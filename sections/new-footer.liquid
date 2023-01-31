@@ -1,10 +1,11 @@
 {{ 'section-new-footer.css' | asset_url | stylesheet_tag }}
-<div class="custom-footer-images">
-  <img class="footer-first-image" src="{{ section.settings.image1 | image_url }}" alt="footer_first_image">
-  <img class="footer-second-image" src="{{ section.settings.image2 | image_url }}" alt="footer_second_image">
 
-  <div class="footer-content-wrapper">
-    <div class="footer-custom-links">
+<div class="new-custom-footer-images">
+  <img class="new-footer-first-image" src="{{ section.settings.image1 | image_url }}" alt="footer_first_image">
+  <img class="new-footer-second-image" src="{{ section.settings.image2 | image_url }}" alt="footer_second_image">
+
+  <div class="new-footer-content-wrapper">
+    <div class="new-footer-custom-links">
       <a href="{{ section.settings.link_1 }}">
         {{ section.settings.linktitle_1 }}
       </a>
@@ -18,7 +19,7 @@
         {{ section.settings.linktitle_4 }}
       </a>
     </div>
-    <div class="custom-text-footer">
+    <div class="new-custom-text-footer">
       {{ section.settings.footer_description }}
     </div>
   </div>

@@ -6,17 +6,17 @@
   column-gap: 21px;
 }
 
-.product-image {
+.product-image-custom {
   width: 100%;
 }
 
-.product__grid__info {
+.product__grid__info-custom {
   text-align: left !important;
   margin-top: 49px !important;
   margin-left: 11.5% !important;
 }
 
-.product__grid__title {
+.product__grid__title-custom {
   font-family: "BebasNeue-Regular" !important;
   font-size: 28px;
   font-weight: 400;
@@ -28,8 +28,8 @@
   margin-bottom: 17px;
 }
 
-.product__grid__price {
-  font-family: "poppins";
+.product__grid__price-custom {
+  font-family: "Poppins-Regular";
   font-size: 18px;
   font-weight: 400;
   line-height: 1;
@@ -76,7 +76,7 @@
 }
 
 .my-intro {
-  font-family: "poppins";
+  font-family: "Poppins-Regular";
   font-size: 18px;
   font-weight: 400;
   line-height: 18px;
@@ -171,7 +171,7 @@
 }
 
 .user-description {
-  font-family: "poppins";
+  font-family: "Poppins-Regular";
   font-size: 18px;
   font-weight: 400;
   line-height: 18px;
@@ -240,12 +240,12 @@
 }
 
 @media (max-width: 1200px) {
-  .product__grid__title,
+  .product__grid__title-custom,
   .my-name {
     font-size: 20px;
   }
 
-  .product__grid__price,
+  .product__grid__price-custom,
   .my-intro {
     font-size: 15px;
   }
@@ -327,7 +327,7 @@
     row-gap: 50px;
   }
 
-  .product__grid__info {
+  .product__grid__info-custom {
     margin-top: 30px !important;
   }
 

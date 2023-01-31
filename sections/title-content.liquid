@@ -1,6 +1,6 @@
 {{ 'section-title-content.css' | asset_url | stylesheet_tag }}
 
-<div class="title-content-container {{ section.settings.bg }}">
+<div class="title-content-container {{ section.settings.bg }}" style="background:{{ section.settings.bg_color }};">
   <div class="title-content-wrapper">
     <p class="title-content-top_title">{{ section.settings.top_title }}</p>
     <p class="title-content-title">{{ section.settings.title }}</p>
@@ -24,6 +24,11 @@
       "label": "Top Title"
     },
     {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background-color"
+    },
+    {
       "type": "text",
       "id": "title",
       "label": "Title"
@@ -44,7 +49,7 @@
       "label": "Subtitle"
     },
     {
-      "type": "html",
+      "type": "richtext",
       "id": "content",
       "label": "Content"
     },

@@ -29,7 +29,7 @@
 }
 
 .new-custom-about-one-title {
-  font-family: Gambarino-Regular;
+  font-family: "Gambarino-Regular";
   font-size: 115px;
   font-weight: 400;
   line-height: 1;
@@ -42,7 +42,7 @@
 }
 
 .new-custom-about-one-sub_title {
-  font-family: Gambarino-Regular;
+  font-family: "Gambarino-Regular";
   font-size: 80px;
   font-weight: 400;
   line-height: 1;
@@ -175,11 +175,31 @@
   }
 
   .new-custom-about-one-sub_title {
-    font-size: 28px;
+    font-size: 20px;
   }
 
   .new-custom-about-one-content-wrapper {
     font-size: 12px;
     line-height: 20px;
+  }
+
+  .new-custom-about-one-title {
+    font-size: 35px;
+  }
+
+  .new-custom-about-one-more {
+    margin-bottom: 25px;
+    font-size: 10px;
+    letter-spacing: 11px;
+  }
+  .new-custom-about-one-vl {
+    margin-bottom: 40px;
+    border-left: 1px solid #ff5d00;
+    height: 35px;
+  }
+  .new-custom-about-one-content-wrapper p {
+    font-size: 10px;
+    line-height: 26px;
+    letter-spacing: 3px;
   }
 }

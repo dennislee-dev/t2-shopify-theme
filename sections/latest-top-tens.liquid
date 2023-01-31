@@ -1,131 +1,134 @@
-{{ 'latest-top-tens.css' | asset_url | stylesheet_tag }}
+{{ 'section-latest-top-tens.css' | asset_url | stylesheet_tag }}
 
 <style>
-    #section--{{section.id}} {
-        padding-top: {{ section.settings.padding_top }}px;
-        padding-bottom: {{ section.settings.padding_bottom}}px;
-    }
-    @media (max-width: 767px) {
-        #section--{{section.id}} {
-            padding-top: {{ section.settings.padding_top_mobile }}px;
-            padding-bottom: {{ section.settings.padding_bottom_mobile }}px;
-        }
-    }
+  #section--{{section.id}} {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom}}px;
+  }
+  @media (max-width: 767px) {
+      #section--{{section.id}} {
+          padding-top: {{ section.settings.padding_top_mobile }}px;
+          padding-bottom: {{ section.settings.padding_bottom_mobile }}px;
+      }
+  }
 </style>
 
 <latest-top-tens id="section--{{ section.id }}" class="top-tens__wrapper">
-    {% if section.settings.title != blank %}
-        <h2 class="title">{{ section.settings.title }}</h2>
-    {% endif %}
-    <div class="video__contents">
-        {% for block in section.blocks %}
-            <div class="video__wrapper">
-                <video controls preload="none" {% if block.settings.video_poster != blank %}
-                    poster="{{ block.settings.video_poster | img_url: '1000x' }}"
-                {% endif %}>
-                    <source src="{{ block.settings.video_url }}" typer="video/mp4">
-                </video>
-                <div class="text__wrapper">
-                    {% if block.settings.title != blank %}
-                        <p class="title">{{ block.settings.title }}</p>
-                    {% endif %}
-                    {% if block.settings.subtitle != blank %}
-                        <p class="subtitle">{{ block.settings.subtitle }}</p>
-                    {% endif %}
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-    
+  {% if section.settings.title != blank %}
+    <h2 class="title">{{ section.settings.title }}</h2>
+  {% endif %}
+  <div class="video__contents">
+    {% for block in section.blocks %}
+      <div class="video__wrapper">
+        <video
+          controls
+          preload="none"
+          {% if block.settings.video_poster != blank %}
+            poster="{{ block.settings.video_poster | img_url: '1000x' }}"
+          {% endif %}
+        >
+          <source src="{{ block.settings.video_url }}" typer="video/mp4">
+        </video>
+        <div class="text__wrapper">
+          {% if block.settings.title != blank %}
+            <p class="title">{{ block.settings.title }}</p>
+          {% endif %}
+          {% if block.settings.subtitle != blank %}
+            <p class="subtitle">{{ block.settings.subtitle }}</p>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </latest-top-tens>
 
 {% schema %}
+{
+  "name": "Latest top tens",
+  "class": "latest-top-tens",
+  "settings": [
     {
-        "name": "Latest top tens",
-        "class": "latest-top-tens",
-        "settings": [
-            {
-                "type": "text",
-                "id": "title",
-                "label": "Title"
-            },
-            {
-                "type": "header",
-                "content": "Section spacing"
-            },
-            {
-                "type": "range",
-                "id": "padding_top",
-                "min":0,
-                "max": 100,
-                "step": 5,
-                "unit": "px",
-                "label": "Padding top",
-                "default": 50
-            },
-            {
-                "type": "range",
-                "id": "padding_bottom",
-                "min":0,
-                "max": 100,
-                "step": 5,
-                "unit": "px",
-                "label": "Padding bottom",
-                "default": 50
-            },
-            {
-                "type": "range",
-                "id": "padding_top_mobile",
-                "min":0,
-                "max": 100,
-                "step": 5,
-                "unit": "px",
-                "label": "Padding top on mobile",
-                "default": 50
-            },
-            {
-                "type": "range",
-                "id": "padding_bottom_mobile",
-                "min":0,
-                "max": 100,
-                "step": 5,
-                "unit": "px",
-                "label": "Padding bottom on mobile",
-                "default": 50
-            }
-        ],
-        "blocks": [
-            {
-                "type": "video-item",
-                "name": "Video item",
-                "settings": [
-                    {
-                        "type": "url",
-                        "id": "video_url",
-                        "label": "Video url"
-                    },
-                    {
-                        "type": "image_picker",
-                        "id": "video_poster",
-                        "label": "Video poster"
-                    },
-                    {
-                        "type": "text",
-                        "id": "title",
-                        "label": "Title"
-                    },
-                    {
-                        "type": "text",
-                        "id": "subtitle",
-                        "label": "Subtitle"
-                    }
-                ]
-            }
-        ],
-        "presets": [
-            {
-                "name": "Latest top tens"
-            }
-        ]
+      "type": "text",
+      "id": "title",
+      "label": "Title"
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "label": "Padding top",
+      "default": 50
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "label": "Padding bottom",
+      "default": 50
+    },
+    {
+      "type": "range",
+      "id": "padding_top_mobile",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "label": "Padding top on mobile",
+      "default": 50
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom_mobile",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "label": "Padding bottom on mobile",
+      "default": 50
     }
+  ],
+  "blocks": [
+    {
+      "type": "video-item",
+      "name": "Video item",
+      "settings": [
+        {
+          "type": "url",
+          "id": "video_url",
+          "label": "Video url"
+        },
+        {
+          "type": "image_picker",
+          "id": "video_poster",
+          "label": "Video poster"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "label": "Subtitle"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Latest top tens"
+    }
+  ]
+}
 {% endschema %}

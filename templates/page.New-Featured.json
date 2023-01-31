@@ -15,137 +15,83 @@
         "bg": "palette--light bg--neutral"
       }
     },
-    "2f806101-7290-47c8-a088-10bc275f64a2": {
-      "type": "section-custom-content",
-      "blocks": {
-        "cce9e813-7e6a-41e6-951c-681c32a3d07a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_17.gif",
-            "bg_position": "center-center",
-            "overlay_opacity": 15,
-            "overlay_color": "#000",
-            "kicker": "",
-            "title": "Color",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "btn uppercase"
-          }
-        }
-      },
-      "block_order": [
-        "cce9e813-7e6a-41e6-951c-681c32a3d07a"
-      ],
+    "825e6605-5908-469f-9312-30522f052a77": {
+      "type": "section-hero",
       "settings": {
-        "height": "use_screen_one_half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
+        "image": "shopify:\/\/shop_images\/Image_10.webp",
+        "mobile_image": "shopify:\/\/shop_images\/Image_10.webp",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "kicker": "",
+        "title": "Featured",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
       }
     },
-    "f9055e26-7634-4356-aab7-9aedcc757d49": {
-      "type": "custom-grid-first",
-      "blocks": {
-        "1928adf4-f93e-4e17-a996-fd6a0c08ab2b": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "link": "https:\/\/www.lola41.com\/location\/lola-41-palm-beach\/"
-          }
-        },
-        "36e5cb13-9c6e-4572-ad5d-2b254a11f152": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_2b556b37-da2a-43e2-8ef8-e870cf861665.webp",
-            "link": "https:\/\/www.beautycounter.com\/product\/counter-plus-lotus-glow-cleansing-balm"
-          }
-        },
-        "ae9798c0-ced0-476f-ae99-f4a5ca914c62": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_e2d7cae0-6eba-4657-ad2b-902b1b797e3d.webp",
-            "link": "https:\/\/www.chanel.com\/us\/fragrance\/women\/c\/7x1x1x33\/chance-eau-fraiche\/"
-          }
-        },
-        "99f6d047-514e-4912-b4cb-ab6bf86e1801": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_37f46bec-c751-47d9-95eb-d18cc9d46b04.webp",
-            "link": "https:\/\/www.sakara.com\/products\/detox-water-drops?variant=39566245036141"
-          }
-        },
-        "74d0b103-9bcd-438a-a980-6b1d5a2c64c6": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_0f0f03a4-f768-4ab9-abaa-43b802e2f54f.webp",
-            "link": "https:\/\/royalhighnies.com\/collections\/ladies\/products\/the-original-lounge-top"
-          }
-        },
-        "0f766ed1-50d4-4b57-9bb1-34619362616e": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_7ede7859-8582-45bc-b4e8-97f15eee588b.webp",
-            "link": "https:\/\/shopdailydrills.com\/products\/bubble-bra-metallic"
-          }
-        },
-        "290c2cd2-8f6e-46ed-8fc0-de68b595385c": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7_cd06596b-5258-4b7b-9f76-a2b997ad9bed.webp",
-            "link": "https:\/\/cecelianewyork.com\/products\/hibicsus-2?variant=31830491365461&cmp_id=15014751776&adg_id=129973178138&kwd=&device=c&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvxnT7hlLHgrr6oixlIssf45f1zLkzcqgVoIu7FherkAN1WS9VaYazoaAmhjEALw_wcB"
-          }
-        },
-        "703efa63-97de-49a4-b0bb-ffe107b23198": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.webp",
-            "link": "https:\/\/balthazarny.com\/"
-          }
-        },
-        "5a248c41-880a-4c97-a6bd-466671378376": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9.webp",
-            "link": "https:\/\/www.bakedbymelissa.com\/gifts\/birthday\/birthday-cupcakes\/birthday-gift-box-25.html"
-          }
-        },
-        "a735bec7-f3cd-4218-97e6-8b30354d93a4": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10_872bc4f6-af5b-4777-911f-c3e202247638.webp",
-            "link": "https:\/\/www.target.com\/p\/santa-margherita-pinot-grigio-white-wine-750ml-bottle\/-\/A-13378636"
-          }
-        }
-      },
-      "block_order": [
-        "1928adf4-f93e-4e17-a996-fd6a0c08ab2b",
-        "36e5cb13-9c6e-4572-ad5d-2b254a11f152",
-        "ae9798c0-ced0-476f-ae99-f4a5ca914c62",
-        "99f6d047-514e-4912-b4cb-ab6bf86e1801",
-        "74d0b103-9bcd-438a-a980-6b1d5a2c64c6",
-        "0f766ed1-50d4-4b57-9bb1-34619362616e",
-        "290c2cd2-8f6e-46ed-8fc0-de68b595385c",
-        "703efa63-97de-49a4-b0bb-ffe107b23198",
-        "5a248c41-880a-4c97-a6bd-466671378376",
-        "a735bec7-f3cd-4218-97e6-8b30354d93a4"
-      ],
+    "6f246d52-88eb-44ca-85fa-85530673911e": {
+      "type": "featured1",
       "settings": {
-        "title": "",
-        "html": "",
-        "html1": "",
-        "heading": "",
-        "link-title": "",
-        "link": ""
+        "heading": "THE BEST OF SPRING SUMMER ‘22",
+        "sub-heading": "Our favourites",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_202_10_3e567151-0059-4892-92f6-a351e15a952d.webp",
+        "link": "",
+        "image1": "shopify:\/\/shop_images\/Screen_Shot_202_11.webp",
+        "link1": ""
+      }
+    },
+    "6114e8cc-a9da-4469-aada-a50a5da11526": {
+      "type": "featured4",
+      "settings": {
+        "heading": "Our favourites",
+        "sub-heading": "",
+        "image0": "shopify:\/\/shop_images\/IMG_3199.webp",
+        "link": "",
+        "image1": "shopify:\/\/shop_images\/Screen_Shot_202_8_c9ee9b89-3cf0-4240-a082-8b0edd170fac.webp",
+        "link1": "",
+        "image2": "shopify:\/\/shop_images\/Image_11.webp",
+        "image3": "shopify:\/\/shop_images\/Screen_Shot_202_4_a062ba05-2481-47e1-a81b-8bd615dfe817.webp",
+        "image4": "shopify:\/\/shop_images\/IMG_3196.webp"
+      }
+    },
+    "a0f61064-b94c-4680-801d-6b6701788b4c": {
+      "type": "featured-cold",
+      "settings": {
+        "heading": "WHAT ELSE",
+        "description": "<p>TAKE A LOOK AT THE BEST OF THE BEST TOP TEN LISTS. WE SELECTED OUR FAVORITES OF WEEK III. <\/p><p>SHOP AND SHARE TO ENSURE YOUR STUNNING LOOK.<\/p>",
+        "sub_description": "<p>DON’T THANK US - JUST ENJOY!<\/p>",
+        "text": "<p>COLD GLASS FOR HOLIDAYS<\/p>",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_202_2.webp",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "right_image": "shopify:\/\/shop_images\/Screen_Shot_202_3_cf75faf7-ef01-4440-b31f-f7759ceae22b.webp",
+        "title": "Vanessa Deis",
+        "sub-heading": "WHAT TO WEAR THIS SPRING",
+        "link": "",
+        "html": ""
+      }
+    },
+    "a587bfdd-ad59-428a-a23d-adf69eb1e8b0": {
+      "type": "custom-two-images",
+      "settings": {
+        "bg_color": "",
+        "image1": "shopify:\/\/shop_images\/Screen_Shot_202_3.webp",
+        "image2": "shopify:\/\/shop_images\/Screen_Shot_202_9_6dd0a845-36d3-4d26-a24f-2b0b8d074356.webp"
       }
     }
   },
   "order": [
     "main",
-    "2f806101-7290-47c8-a088-10bc275f64a2",
-    "f9055e26-7634-4356-aab7-9aedcc757d49"
+    "825e6605-5908-469f-9312-30522f052a77",
+    "6f246d52-88eb-44ca-85fa-85530673911e",
+    "6114e8cc-a9da-4469-aada-a50a5da11526",
+    "a0f61064-b94c-4680-801d-6b6701788b4c",
+    "a587bfdd-ad59-428a-a23d-adf69eb1e8b0"
   ]
 }

@@ -15,137 +15,86 @@
         "bg": "palette--light bg--neutral"
       }
     },
-    "2f806101-7290-47c8-a088-10bc275f64a2": {
-      "type": "section-custom-content",
-      "blocks": {
-        "cce9e813-7e6a-41e6-951c-681c32a3d07a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_17.gif",
-            "bg_position": "center-center",
-            "overlay_opacity": 15,
-            "overlay_color": "#000",
-            "kicker": "",
-            "title": "Color",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "btn uppercase"
-          }
-        }
-      },
-      "block_order": [
-        "cce9e813-7e6a-41e6-951c-681c32a3d07a"
-      ],
+    "735aa420-1a77-429e-a37c-793129be2d3c": {
+      "type": "section-hero",
       "settings": {
-        "height": "use_screen_one_half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
+        "image": "shopify:\/\/shop_images\/Image_6.webp",
+        "mobile_image": "shopify:\/\/shop_images\/Image_6.webp",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "About TSquared",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
       }
     },
-    "f9055e26-7634-4356-aab7-9aedcc757d49": {
-      "type": "custom-grid-first",
-      "blocks": {
-        "1928adf4-f93e-4e17-a996-fd6a0c08ab2b": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "link": "https:\/\/www.lola41.com\/location\/lola-41-palm-beach\/"
-          }
-        },
-        "36e5cb13-9c6e-4572-ad5d-2b254a11f152": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_2b556b37-da2a-43e2-8ef8-e870cf861665.webp",
-            "link": "https:\/\/www.beautycounter.com\/product\/counter-plus-lotus-glow-cleansing-balm"
-          }
-        },
-        "ae9798c0-ced0-476f-ae99-f4a5ca914c62": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_e2d7cae0-6eba-4657-ad2b-902b1b797e3d.webp",
-            "link": "https:\/\/www.chanel.com\/us\/fragrance\/women\/c\/7x1x1x33\/chance-eau-fraiche\/"
-          }
-        },
-        "99f6d047-514e-4912-b4cb-ab6bf86e1801": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_37f46bec-c751-47d9-95eb-d18cc9d46b04.webp",
-            "link": "https:\/\/www.sakara.com\/products\/detox-water-drops?variant=39566245036141"
-          }
-        },
-        "74d0b103-9bcd-438a-a980-6b1d5a2c64c6": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_0f0f03a4-f768-4ab9-abaa-43b802e2f54f.webp",
-            "link": "https:\/\/royalhighnies.com\/collections\/ladies\/products\/the-original-lounge-top"
-          }
-        },
-        "0f766ed1-50d4-4b57-9bb1-34619362616e": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_7ede7859-8582-45bc-b4e8-97f15eee588b.webp",
-            "link": "https:\/\/shopdailydrills.com\/products\/bubble-bra-metallic"
-          }
-        },
-        "290c2cd2-8f6e-46ed-8fc0-de68b595385c": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7_cd06596b-5258-4b7b-9f76-a2b997ad9bed.webp",
-            "link": "https:\/\/cecelianewyork.com\/products\/hibicsus-2?variant=31830491365461&cmp_id=15014751776&adg_id=129973178138&kwd=&device=c&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvxnT7hlLHgrr6oixlIssf45f1zLkzcqgVoIu7FherkAN1WS9VaYazoaAmhjEALw_wcB"
-          }
-        },
-        "703efa63-97de-49a4-b0bb-ffe107b23198": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.webp",
-            "link": "https:\/\/balthazarny.com\/"
-          }
-        },
-        "5a248c41-880a-4c97-a6bd-466671378376": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9.webp",
-            "link": "https:\/\/www.bakedbymelissa.com\/gifts\/birthday\/birthday-cupcakes\/birthday-gift-box-25.html"
-          }
-        },
-        "a735bec7-f3cd-4218-97e6-8b30354d93a4": {
-          "type": "images",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10_872bc4f6-af5b-4777-911f-c3e202247638.webp",
-            "link": "https:\/\/www.target.com\/p\/santa-margherita-pinot-grigio-white-wine-750ml-bottle\/-\/A-13378636"
-          }
-        }
-      },
-      "block_order": [
-        "1928adf4-f93e-4e17-a996-fd6a0c08ab2b",
-        "36e5cb13-9c6e-4572-ad5d-2b254a11f152",
-        "ae9798c0-ced0-476f-ae99-f4a5ca914c62",
-        "99f6d047-514e-4912-b4cb-ab6bf86e1801",
-        "74d0b103-9bcd-438a-a980-6b1d5a2c64c6",
-        "0f766ed1-50d4-4b57-9bb1-34619362616e",
-        "290c2cd2-8f6e-46ed-8fc0-de68b595385c",
-        "703efa63-97de-49a4-b0bb-ffe107b23198",
-        "5a248c41-880a-4c97-a6bd-466671378376",
-        "a735bec7-f3cd-4218-97e6-8b30354d93a4"
-      ],
+    "c3ada2bb-9610-4a3d-9cb6-f9c60c45baab": {
+      "type": "new-custom-about-1",
       "settings": {
-        "title": "",
-        "html": "",
-        "html1": "",
-        "heading": "",
-        "link-title": "",
-        "link": ""
+        "top_title": "ABOUT US",
+        "title": "T2 —TSquared",
+        "sub_title": "a community of favorite things",
+        "content": "<p>THROUGHOUT THE LAST YEARS, I’VE BEEN ABLE TO FIND WHAT IS THE MOST INTERESTING &amp; EXCITING IN FASHION, ART, DESIGN AND TRAVEL.<\/p>\n<br>\n<p>WE WANT TO SEE WHAT YOUR FAVORITES ARE - SEND US YOUR FAVORITE TOP TEN LIST.\n<\/p>"
+      }
+    },
+    "41223776-3129-425b-9fb7-5f34d0070740": {
+      "type": "new-custom-about-2",
+      "settings": {
+        "title": "THE PROCESS",
+        "subtitle1": "Top Tens",
+        "desc1": "A CURATED CONNECTION CREATED BY THE TOP TEN THINGS THAT BRING YOU JOY.",
+        "subtitle2": "Create Your List",
+        "desc2": "CREATE YOUR CUSTOM LIST AND WE WILL POST IT ON YOUR BEHALF. WE ARE DEMOCRATIZING THE LIST PROCESS BY MAKING SPECIALIZED TOP TEN LISTS CREATED BY YOU FOR THE COMMUNITY.",
+        "subtitle3": "Change Monthly",
+        "desc3": "WE ALLOW YOU TO CREATE ONE TOP TEN LIST PER MONTH. YOU CAN LOGIN AND CHANGE YOUR LIST MONTHLY.",
+        "subtitle4": "Democratized Community",
+        "desc4": "THERE WILL BE NO LIKES. NO COMMENTS. NO HEARTS. NO FOLLOWERS. NO INFLUENCING. WE WANT THIS TO BE ORIGINAL, PURE CONTENT THAT IS USEFUL AND IMPACTFUL.",
+        "image1": "shopify:\/\/shop_images\/Screen_Shot_202_a6b3cdf9-ded4-4fdb-aa0c-4122b0ddea84.webp",
+        "image2": "shopify:\/\/shop_images\/Screen_Shot_202_2_a2d119f5-4f42-4d21-868e-608940bc1dc1.webp",
+        "image3": "shopify:\/\/shop_images\/Screen_Shot_202_5.webp",
+        "image4": "shopify:\/\/shop_images\/Screen_Shot_202_1_e250c3e4-4fc3-4721-879d-8840bac109b5.webp",
+        "image5": "shopify:\/\/shop_images\/Screen_Shot_202_3.webp",
+        "image6": "shopify:\/\/shop_images\/Screen_Shot_202_4.webp",
+        "image_path": "shopify:\/\/shop_images\/path.webp",
+        "image7": "shopify:\/\/shop_images\/Screen_Shot_202_8.webp"
+      }
+    },
+    "b66d50bc-b2c8-48c7-9483-4bc3bc25b7e7": {
+      "type": "new-custom-about-last",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_202_9.webp",
+        "title": "An example of a Top Ten List",
+        "sub_heading": "10\/13",
+        "heading1": "PROFILE213",
+        "heading2": "SHOP LIST",
+        "heading3": "YOUTUBE",
+        "heading4": "SHARE LIST",
+        "sub-heading1": "10\/13",
+        "sub-heading2": "CLICK TO SHOP",
+        "sub-heading3": "10\/13",
+        "sub-heading4": "SHOP NOW",
+        "link1": "",
+        "link2": "",
+        "link3": "",
+        "link4": "",
+        "bottom-text": "CLICK THROUGH TO CREATE YOUR FAVOURITE TOP TEN LIST",
+        "bottom-link": ""
       }
     }
   },
   "order": [
     "main",
-    "2f806101-7290-47c8-a088-10bc275f64a2",
-    "f9055e26-7634-4356-aab7-9aedcc757d49"
+    "735aa420-1a77-429e-a37c-793129be2d3c",
+    "c3ada2bb-9610-4a3d-9cb6-f9c60c45baab",
+    "41223776-3129-425b-9fb7-5f34d0070740",
+    "b66d50bc-b2c8-48c7-9483-4bc3bc25b7e7"
   ]
 }

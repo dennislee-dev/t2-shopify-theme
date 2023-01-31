@@ -4,89 +4,80 @@
 
   <div class="footer-custom-links">
     <a href="{{  section.settings.link1 }}">
-      {{  section.settings.title1 }}
+      {{ section.settings.title1 }}
     </a>
     <a href="{{  section.settings.link2 }}">
-      {{  section.settings.title2 }}
+      {{ section.settings.title2 }}
     </a>
     <a href="{{  section.settings.link3 }}">
-      {{  section.settings.title3 }}
+      {{ section.settings.title3 }}
     </a>
     <a href="{{  section.settings.link4 }}">
-      {{  section.settings.title4 }}
+      {{ section.settings.title4 }}
     </a>
   </div>
-  <br><br>
+  <br>
+  <br>
   <div class="custom-text-footer">
     {{ section.settings.html }}
   </div>
   {% comment %}
-  <div class="footer-bottom">
-    <p>subscrible</p>
-  </div>
+    <div class="footer-bottom">
+      <p>subscrible</p>
+    </div>
   {% endcomment %}
 </div>
 <style>
-  #shopify-section-footer-new
-  {
-    background-image:url('https://cdn.shopify.com/s/files/1/0617/5699/7827/files/ezgif.com-gif-maker_14_df347038-e7ff-4963-9e94-3e7a42ce87e9.gif?v=1673347264');
+  #shopify-section-footer-new {
+    background-image: url('https://cdn.shopify.com/s/files/1/0617/5699/7827/files/ezgif.com-gif-maker_14_df347038-e7ff-4963-9e94-3e7a42ce87e9.gif?v=1673347264');
     background-size: cover;
     background-position: center;
   }
-  .custom-footer-images
-  {
+  .custom-footer-images {
     //background-color:black;
-    color:white;
+    color: white;
     padding: 200px 0px 0px 0px;
-    position:relative;
+    position: relative;
   }
-  .footer-f-image
-  {
+  .footer-f-image {
     max-width: 170px;
     position: absolute;
     left: 20%;
     top: -11%;
   }
-  .footer-s-image
-  {
-    max-width:200px;
+  .footer-s-image {
+    max-width: 200px;
     position: absolute;
     top: 4%;
     left: 60%;
-    
   }
-  .footer-custom-links a
-  {
-    color:white;
-    display:block;
-    width:100%;
-    text-align:center;
-    font-size:2rem;
+  .footer-custom-links a {
+    color: white;
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
     font-family: var(--FONT-STACK-HEADING);
     font-weight: var(--FONT-WEIGHT-HEADING);
     font-style: var(--FONT-STYLE-HEADING);
   }
-  .custom-text-footer p
-  {
-    color:white;
-    width:100%;
-    text-align:center;
+  .custom-text-footer p {
+    color: white;
+    width: 100%;
+    text-align: center;
   }
-  .footer-bottom
-  {
-    width:100%;
-    text-align:right;
-    padding:10px;
+  .footer-bottom {
+    width: 100%;
+    text-align: right;
+    padding: 10px;
   }
-  @media screen and (max-width:1000px)
-  {
-    .footer-f-image,.footer-s-image
-    {
-      display:none;
+  @media screen and (max-width: 1000px) {
+    .footer-f-image,
+    .footer-s-image {
+      display: none;
     }
-    .custom-footer-images
-    {
-      padding:60px 0px;
+    .custom-footer-images {
+      padding: 60px 0px;
     }
   }
 </style>
