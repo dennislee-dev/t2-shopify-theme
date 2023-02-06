@@ -17,20 +17,21 @@
     "color_bg_accent_inverse": "#191008",
     "color_footer_bg": "#f9f6f2",
     "color_footer_text": "#191008",
-    "type_heading_font": "helvetica_n7",
-    "type_heading_size": 95,
+    "type_heading_font": "helvetica_n4",
+    "type_heading_size": 80,
     "font_title_capitalize": true,
     "type_accent_font": "avenir_next_n5",
     "type_accent_size": 95,
-    "type_base_font": "avenir_next_n4",
-    "type_body_size": 100,
+    "type_base_font": "arapey_n4",
+    "type_body_size": 95,
     "animations_scroll_enable": true,
     "animations_hover_enable": false,
     "collection_text_alignment": "text-center",
-    "product_grid_style": "under",
+    "product_grid_style": "hover",
     "image_hover_enable": true,
     "product_grid_image": "crop",
     "cart_style": "drawer",
+    "social_instagram_link": "https:\/\/instagram.com\/tsquaredofficial?igshid=YmMyMTA2M2Y=",
     "product_background_color": "#fcfcfc",
     "sections": {
       "announcement": {
@@ -239,7 +240,7 @@
         "settings": {
           "shp_url": "",
           "header_style": "drawer",
-          "logo": "shopify:\/\/shop_images\/logo.webp",
+          "logo": "shopify:\/\/shop_images\/t2_blk_1cc8adbb-fe54-4727-9823-ce8d98a0c173.png",
           "logo_max_limit": 30,
           "right-image": "shopify:\/\/shop_images\/profile_image_for_mneu_1.png",
           "main_menu_linklist": "main-menu",
@@ -255,14 +256,14 @@
           "transparent_article": true,
           "transparent_page": true,
           "transparent_text_color": "#ffffff",
-          "transparent_logo": "shopify:\/\/shop_images\/logo.webp"
+          "transparent_logo": "shopify:\/\/shop_images\/t2_wht.png"
         }
       },
       "new-footer": {
         "type": "new-footer",
         "settings": {
-          "image1": "shopify:\/\/shop_images\/footer_image_1.webp",
-          "image2": "shopify:\/\/shop_images\/footer_image_2.webp",
+          "image1": "shopify:\/\/shop_images\/World_on_a_string.jpg",
+          "image2": "shopify:\/\/shop_images\/jean_shrimpton_1964.jpg",
           "linktitle_1": "TOP TENS",
           "link_1": "shopify:\/\/pages\/latest-top-tens",
           "linktitle_2": "FEATURED",

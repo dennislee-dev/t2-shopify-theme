@@ -24,9 +24,10 @@
         "bg_position": "center-center",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "kicker": "",
-        "title": "Live Videos",
+        "title1": "Live",
+        "title2": "Videos",
         "richtext": "",
         "text_align": "align--middle-center",
         "text_color": "text--white",
@@ -55,7 +56,7 @@
       "settings": {
         "video_url": "",
         "video_poster": "shopify:\/\/shop_images\/Video_1.png",
-        "title": "VIEW ALL VIDEOS",
+        "title": "View All My Videos",
         "subtitle": "BROWSE OUR LATEST WORKS",
         "padding_top": 100,
         "padding_bottom": 100,
@@ -104,7 +105,7 @@
         "6b4f2b98-b98f-4246-95d2-7af1dba8a1d8"
       ],
       "settings": {
-        "title": "The Latest Top Tens",
+        "title": "The latest Top Tens",
         "padding_top": 100,
         "padding_bottom": 100,
         "padding_top_mobile": 90,
@@ -115,11 +116,12 @@
       "type": "title-content",
       "settings": {
         "top_title": "HEY",
+        "bg_color": "",
         "title": "Talk to me",
         "sub_title1": "if you have some ideas for",
         "effect_text": "ANY",
         "sub_title2": "things you like",
-        "content": "<p>I AM ALWAYS OPEN TO NEW COLLABORATIONS WITH BRANDS, MODELS AND CREATIVES<\/p> <br>\n<p>YOU KNOW WHAT DO DO - JUST DROP ME A LINE<\/p>",
+        "content": "<p>I AM ALWAYS OPEN TO NEW COLLABORATIONS WITH BRANDS, MODELS AND CREATIVES<\/p><p>YOU KNOW WHAT DO DO - JUST DROP ME A LINE<\/p>",
         "bg": "palette--gray"
       }
     }

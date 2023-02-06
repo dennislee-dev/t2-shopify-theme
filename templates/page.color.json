@@ -201,6 +201,7 @@
         "84efeda3-e566-4bc1-8496-000d5802ca36": {
           "type": "block-2",
           "settings": {
+            "showconten": true,
             "accessc": "COLOR",
             "img1": "shopify:\/\/shop_images\/download.png",
             "link_url1": "https:\/\/www.artsy.net\/artwork\/chris-levine-lightness-of-being-freedom-edition?utm_medium=p-shopping&utm_source=adwords&utm_campaign=MarketingBNMO_ShoppingT1_060622&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvyVmwizOBDCY7-HuyptQMzvE75jPjCh5bCQeiTPrIWeKRQFIpy-4EYaAm2HEALw_wcB",
@@ -244,12 +245,13 @@
             "img20": "shopify:\/\/shop_images\/85c93161-7ca0-4c15-aaf7-58f4c87f2002.webp",
             "link_url20": "https:\/\/www.nordstrom.com\/s\/bottega-veneta-stretch-sandal-women\/5768451?color=GRASS&utm_content=33817189095&utm_term=pla-820430821617&utm_channel=low_nd_shopping_standard&adpos=&creative=145503088523&device=c&matchtype=&network=g&acctid=21700000001689570&dskeywordid=92700049882462571&lid=92700049882462571&ds_s_kwgid=58700005470151424&ds_s_inventory_feed_id=97700000007631122&dsproductgroupid=820430821617&product_id=1156641&merchid=1243147&prodctry=US&prodlang=en&channel=online&storeid=&locationid=1021129&targetid=pla-820430821617&campaignid=662927176&adgroupid=33817189095&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY8PYtwr54jRUgBMtBlQ-VdX7s-T8IySv1Yp0RB4pRlX4rjjFKRpsXIaAk8YEALw_wcB&gclsrc=aw.ds",
             "heading2": "Top Ten Green",
-            "sub-heading2": ""
+            "sub-heading2": "Green is the new black- it’s present in our favorite looks, ‘Bottega Green' and Jacquemus’s sun-washed sage runway outside Paris, to our favorite places, the Beverly Hills Hotel’s banana-leaved walls and the lily pads at Hotel Bel Air’s Swan Lake. "
           }
         },
         "322186ce-47e2-49ea-b0ac-ae17b5ed49b6": {
           "type": "block-2",
           "settings": {
+            "showconten": true,
             "accessc": "COLOR",
             "img1": "shopify:\/\/shop_images\/SAINT-LAURENT-FALL-22_2x_20220929125805.webp",
             "link_url1": "https:\/\/www.mytheresa.com\/en-us\/saint-laurent-faux-fur-jacket-2018610.html?utm_source=sea_pla&utm_medium=google&utm_campaign=google_sea&ef_id=Cj0KCQjw2_OWBhDqARIsAAUNTTE3VdH034ubWCDpasEJDEHMNREuYglJj-HhjIVClWyCcgO43mvM-w4aAv61EALw_wcB:G:s&gclsrc=aw.ds&&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTE3VdH034ubWCDpasEJDEHMNREuYglJj-HhjIVClWyCcgO43mvM-w4aAv61EALw_wcB&gclsrc=aw.ds",
@@ -298,6 +300,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURED",
             "profile1": "shopify:\/\/shop_images\/Melanie_Masarin_Feature.jpg",
             "profile2": "shopify:\/\/shop_images\/Sophie_Schaffler_Feature-1.jpg",
@@ -351,6 +354,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURED",
             "profile2": "shopify:\/\/shop_images\/Petra_Rose_Feature_c6170714-26bb-41f1-ba3e-e8a8db2572ac.jpg",
             "img1": "shopify:\/\/shop_images\/81CkzCy2mAL.jpg",
@@ -403,6 +407,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURES",
             "profile1": "shopify:\/\/shop_images\/Caroline_Lucas_Feature_db3aa42b-a888-421c-b1eb-7cf90f59399d.jpg",
             "profile2": "shopify:\/\/shop_images\/Sarah_Levine_Feature_c518e2a3-cd9d-49eb-8b63-c4883a3f49bb.jpg",
@@ -456,6 +461,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURES",
             "img1": "shopify:\/\/shop_images\/055345952X.01._SCLZZZZZZZ_SX500.jpg",
             "link_url1": "https:\/\/www.amazon.com\/Cherry-Bombe-Cookbook-Kerry-Diamond\/dp\/055345952X",
@@ -507,6 +513,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURES",
             "profile1": "shopify:\/\/shop_images\/Edith_Young_Feature_dc53ff10-b7ec-403c-9b90-1e5dcc99dc38.jpg",
             "profile2": "shopify:\/\/shop_images\/Kit_Keenan_Feature_4d7aa9c9-219b-4978-b463-bd97e79f622a.jpg",
@@ -560,6 +567,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURES",
             "profile1": "shopify:\/\/shop_images\/Hannah_Bucknam_Feature_0113137e-4cec-4678-a5be-777d98a46522.jpg",
             "profile2": "shopify:\/\/shop_images\/SFK_Feature_b8e507ca-b309-4817-852c-ba700a756958.jpg",
@@ -613,6 +621,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURES",
             "profile1": "shopify:\/\/shop_images\/Ruthie_Friedlander_Feature_a54d6eb5-ce85-47fb-9f40-352fbac13a9a.jpg",
             "profile2": "shopify:\/\/shop_images\/Lilly_Sisto_Feature_4e686d27-0c23-47ee-9f28-3145764b8b73.jpg",
@@ -666,6 +675,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "FEATURES",
             "profile1": "shopify:\/\/shop_images\/Baskin_Champion_Feature_7f9ce6a1-483b-46ef-9106-4787d156d85f.jpg",
             "img1": "shopify:\/\/shop_images\/IMG_1180.jpg",
@@ -715,6 +725,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "TRAVEL",
             "img1": "shopify:\/\/shop_images\/The-Bar-Hotel-Bel-Air-Hero-1536x672.webp",
             "link_url1": "https:\/\/www.dorchestercollection.com\/en\/los-angeles\/hotel-bel-air\/restaurants-bars\/the-bar-lounge\/",
@@ -765,6 +776,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "TRAVEL",
             "img1": "shopify:\/\/shop_images\/il_1140xN.1903862038_4090.jpg",
             "link_url1": "https:\/\/www.etsy.com\/listing\/693423012\/original-1985-andy-warhol-gallery?gpla=1&gao=1&",
@@ -815,6 +827,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "TRAVEL",
             "img1": "shopify:\/\/shop_images\/Newbie-1-scaled.jpg",
             "link_url1": "https:\/\/reformation-pilates.com\/en\/",
@@ -866,6 +879,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "TRAVEL",
             "img1": "shopify:\/\/shop_images\/miami-dining.jpg",
             "link_url1": "https:\/\/www.casatualife.com\/Miami.html",
@@ -913,6 +927,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "SEASON",
             "img1": "shopify:\/\/shop_images\/carb-crb21168-snabro-metallic-snake-high-rise-7-8-legging-brown-2672_1024x_cd25650d-3fdc-4fe4-8447-dcc6ba5b5532.jpg",
             "link_url1": "https:\/\/carbon38.com\/products\/metallic-snake-high-rise-7-8-legging",
@@ -971,6 +986,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "STYLE",
             "img1": "shopify:\/\/shop_images\/SpringMulberry_Launch_20221824-3.jpg",
             "link_url1": "https:\/\/springandmulberry.com\/products\/mixed-berry",
@@ -1021,6 +1037,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "STYLE",
             "img1": "shopify:\/\/shop_images\/18222523_40097163_322.jpg",
             "link_url1": "https:\/\/www.farfetch.com\/shopping\/women\/alemais-petra-crochet-midi-dress-item-18222523.aspx?fsb=1&size=20&storeid=14280",
@@ -1072,6 +1089,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "STYLE",
             "img1": "shopify:\/\/shop_images\/redLScrewneck.jpg",
             "link_url1": "https:\/\/linguafranca.nyc\/products\/custom-crewneck",
@@ -1122,6 +1140,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "STYLE",
             "img1": "shopify:\/\/shop_images\/13463210_17624798_1000.webp",
             "link_url1": "https:\/\/www.farfetch.com\/shopping\/women\/paco-rabanne-sequin-chain-disc-mini-dress-item-13463210.aspx?fsb=1&size=20&storeid=10136&utm_source=google&utm_medium=cpc&utm_keywordid=119356136&utm_shoppingproductid=13463210-5156&pid=google_search&af_channel=Search&c=2069920048&af_c_id=2069920048&af_siteid=&af_keywords=pla-297226412339&af_adset_id=75217628294&af_ad_id=204345266632&af_sub1=119356136&af_sub5=13463210-5156&is_retargeting=true&shopping=yes&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTHbtEQ8AJkbouTNNmzAQJvAVqKagRcZAlsnDD4IyXUm_9_TA52zI3gaAqIwEALw_wcB",
@@ -1171,6 +1190,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "STYLE",
             "img1": "shopify:\/\/shop_images\/bundle_fc933b6e-02ce-40e6-85ee-e4353305405d.webp",
             "link_url1": "https:\/\/sunscoop.com\/apps\/bundles\/bundle\/108588",
@@ -1220,6 +1240,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "WELL",
             "img1": "shopify:\/\/shop_images\/wantsmore_peachbg_hand1.jpg",
             "link_url1": "https:\/\/chillhouse.com\/products\/want-smore",
@@ -1267,6 +1288,7 @@
           "type": "block-2",
           "disabled": true,
           "settings": {
+            "showconten": true,
             "accessc": "WELL",
             "img1": "shopify:\/\/shop_images\/DA_Soireeinvites_Cupid1_R1_300x_809172e7-0038-42d9-a411-998f0c9b454f.jpg",
             "link_url1": "https:\/\/dearannabelle.com\/collections\/soiree-collection\/products\/cupid-invitations",

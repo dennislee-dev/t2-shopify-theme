@@ -26,7 +26,8 @@
         "overlay_opacity": 15,
         "overlay_color": "#000000",
         "kicker": "",
-        "title": "About TSquared",
+        "title1": "About",
+        "title2": "TSquared",
         "richtext": "",
         "text_align": "align--middle-center",
         "text_color": "text--white",
@@ -73,9 +74,9 @@
         "image": "shopify:\/\/shop_images\/Screen_Shot_202_9.webp",
         "title": "An example of a Top Ten List",
         "sub_heading": "10\/13",
-        "heading1": "PROFILE213",
+        "heading1": "Profile213",
         "heading2": "SHOP LIST",
-        "heading3": "YOUTUBE",
+        "heading3": "Youtube",
         "heading4": "SHARE LIST",
         "sub-heading1": "10\/13",
         "sub-heading2": "CLICK TO SHOP",
@@ -88,6 +89,19 @@
         "bottom-text": "CLICK THROUGH TO CREATE YOUR FAVOURITE TOP TEN LIST",
         "bottom-link": ""
       }
+    },
+    "d29dcf39-79a4-4b3c-98bf-5d56d1e3b3fe": {
+      "type": "title-content",
+      "settings": {
+        "top_title": "ABOUT US",
+        "bg_color": "",
+        "title": "Talk to us",
+        "sub_title1": "if you have some ideas for",
+        "effect_text": "ANY",
+        "sub_title2": "collaborations",
+        "content": "<p>I AM ALWAYS OPEN TO NEW COLLABORATIONS WITH BRANDS. SEND YOUR PRODUCTS.<\/p><p>YOU KNOW WHAT TO DO - CONTACT US.<\/p>",
+        "bg": "palette--gray"
+      }
     }
   },
   "order": [
@@ -95,6 +109,7 @@
     "735aa420-1a77-429e-a37c-793129be2d3c",
     "c3ada2bb-9610-4a3d-9cb6-f9c60c45baab",
     "41223776-3129-425b-9fb7-5f34d0070740",
-    "b66d50bc-b2c8-48c7-9483-4bc3bc25b7e7"
+    "b66d50bc-b2c8-48c7-9483-4bc3bc25b7e7",
+    "d29dcf39-79a4-4b3c-98bf-5d56d1e3b3fe"
   ]
 }

@@ -24,9 +24,10 @@
         "bg_position": "center-center",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "kicker": "",
-        "title": "Featured",
+        "title1": "Winter\/",
+        "title2": "Spring",
         "richtext": "",
         "text_align": "align--middle-center",
         "text_color": "text--white",
@@ -84,6 +85,19 @@
         "image1": "shopify:\/\/shop_images\/Screen_Shot_202_3.webp",
         "image2": "shopify:\/\/shop_images\/Screen_Shot_202_9_6dd0a845-36d3-4d26-a24f-2b0b8d074356.webp"
       }
+    },
+    "c0c9ee50-f737-487d-a533-44e73c9363a7": {
+      "type": "title-content",
+      "settings": {
+        "top_title": "TOP TEN",
+        "bg_color": "",
+        "title": "Talk to me",
+        "sub_title1": "if you have some ideas for",
+        "effect_text": "ANY",
+        "sub_title2": "collaborations",
+        "content": "<p>I AM ALWAYS OPEN TO NEW COLLABORATIONS WITH BRANDS, <\/p><p><\/p><p>YOU KNOW WHAT TO DO - CONTACT US<\/p>",
+        "bg": "palette--gray"
+      }
     }
   },
   "order": [
@@ -92,6 +106,7 @@
     "6f246d52-88eb-44ca-85fa-85530673911e",
     "6114e8cc-a9da-4469-aada-a50a5da11526",
     "a0f61064-b94c-4680-801d-6b6701788b4c",
-    "a587bfdd-ad59-428a-a23d-adf69eb1e8b0"
+    "a587bfdd-ad59-428a-a23d-adf69eb1e8b0",
+    "c0c9ee50-f737-487d-a533-44e73c9363a7"
   ]
 }

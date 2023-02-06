@@ -8985,7 +8985,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--FONT-STACK-HEADING);
+/*   font-family: var(--FONT-STACK-HEADING); */
+  font-family: Switzer-Regular;
   font-weight: var(--FONT-WEIGHT-HEADING);
   font-style: var(--FONT-STYLE-HEADING);
   letter-spacing: var(--FONT-HEADING-SPACE);
@@ -13269,7 +13270,8 @@ html:not(.no-js) body:not(.focus-enabled) *:focus {
 
 .standard__heading,
 .standard__heading p {
-  font-family: var(--FONT-STACK-HEADING);
+/*   font-family: var(--FONT-STACK-HEADING); */
+  font-family: Switzer-Regular;
   font-weight: var(--FONT-WEIGHT-HEADING);
   font-style: var(--FONT-STYLE-HEADING);
   letter-spacing: var(--FONT-HEADING-SPACE);
@@ -15721,7 +15723,7 @@ html.js
   height: auto;
 }
 .drawer__menu[data-sliderule-pane="0"]:not(.is-hiding) {
-  overflow-x: hidden;
+  //overflow-x: hidden;
 }
 .drawer__menu[data-sliderule-pane="0"] .sliderule__panel.is-hiding {
   overflow-y: auto;
@@ -24471,8 +24473,12 @@ body[style*="overflow: hidden"] .upsell__modal {
   src: url("Futura-Book-font.ttf");
 }
 @font-face {
-  font-family: "Switzer-Black";
-  src: url("Switzer-Black.otf");
+  font-family: "Switzer-Regular";
+  src: url("Switzer-Regular.otf");
+}
+@font-face {
+  font-family: "Switzer-Semibold";
+  src: url("Switzer-Semibold.otf");
 }
 @font-face {
   font-family: "Poppins-Regular";
@@ -24489,10 +24495,20 @@ body[style*="overflow: hidden"] .upsell__modal {
   font-family: Exmouth !important;
 }
 .swit {
-  font-family: Switzer-Black !important;
+  font-family: Switzer-Regular !important;
 }
 .sliderule__wrapper .gamba {
   font-size: 22px;
+}
+
+.section--image.homepage-video.fade-in-child.js-overflow-container.use_screen_three_quarters.text--white p
+{
+  font-family: Switzer-Semibold !important;
+  font-size: 30px;
+}
+a,ul,p,span,li a,div
+{
+  font-family: "Switzer-Regular";
 }
 .section-html-template--15729467359427__1662062219f39d3725 .w-grid,
 .section-html-template--15729467326659__1662062219f39d3725 .w-grid,
@@ -24511,12 +24527,13 @@ body[style*="overflow: hidden"] .upsell__modal {
   color: white;
   text-align: center;
 }
-#drawer-cart .drawer__body {
+#drawer-cart .drawer__body
+{
   background-color: white;
   justify-content: center;
   align-items: center;
-  //color:white;
-  //text-align:center;
+  /* color:white;
+  text-align:center; */
 }
 .sliderow,
 #header-menu .drawer__top {
@@ -24549,9 +24566,11 @@ svg.icon.icon-cart {
 }
 
 a.swit.sliderow__title {
+  font-family: Futura !important;
   font-weight: var(--FONT-WEIGHT-HEADING);
   font-style: var(--FONT-STYLE-HEADING);
   font-size: 22px;
+  font-kerning: normal;
 }
 a.more {
   display: none;
@@ -24595,62 +24614,69 @@ a.more {
   }
 }
 
-@media screen and (max-width: 767px) {
-  .section-html-template--15662938194115__16614323001251b5e7
-    .grid-container
-    div {
+@media screen and (max-width: 767px)
+{
+  .section-html-template--15662938194115__16614323001251b5e7 .grid-container div
+  {
     width: 48%;
   }
-  .section-html-template--15662938194115__16614323001251b5e7 .grid-container {
+  .section-html-template--15662938194115__16614323001251b5e7 .grid-container
+  {
     justify-content: space-between;
   }
 }
 
-.section--image.homepage-video.fade-in-child.js-overflow-container.use_screen_three_quarters.text--white
-  p {
-  font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
-  font-size: 30px;
-}
-.insert-new .grid-container {
+
+.insert-new .grid-container
+{
   border: 1px solid;
 }
-.bottom__txt p {
+.bottom__txt p
+{
   font-size: 11px;
   line-height: 21px;
   letter-spacing: 2px;
 }
-.bottom__txt {
+.bottom__txt
+{
   max-width: 230px;
   margin: 0 auto;
   margin-top: 40px;
 }
-.drawer__menu .drawer_log {
+.drawer__menu .drawer_log
+{
   display: none;
 }
 
-.sliderow.csm_active a {
+.sliderow.csm_active a
+{
   color: #fff;
 }
 
-.sliderule__wrapper {
+.sliderule__wrapper 
+{
   height: 34px;
 }
-.clr_red {
+.clr_red
+{
+  font-family: Switzer-Semibold !important;
   margin-bottom: 55px;
   color: #ff5d00;
   letter-spacing: 3px;
-  font-weight: 400;
   font-size: 13px;
 }
-.sliderow a {
+.sliderow a 
+{
   color: #262626;
 }
-a.makes {
+a.makes 
+{
   margin-right: 10px;
   color: #ff5d00;
   position: relative;
 }
-.makes:after {
+.makes:after 
+{
   content: "";
   position: absolute;
   z-index: 1;
@@ -24660,6 +24686,7 @@ a.makes {
   height: 2px;
   background: #ff5d00;
 }
-.insert-new.make_it-full {
+.insert-new.make_it-full
+{
   margin: 0 auto;
 }

@@ -8,7 +8,8 @@
 }
 
 .Featured4 h6 {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;

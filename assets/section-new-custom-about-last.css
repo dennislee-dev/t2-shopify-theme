@@ -20,7 +20,9 @@
 }
 
 .new-custom-about-last-image-bottom-title {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+  text-transform: none !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 43px;
   font-weight: 400;
   line-height: 1;
@@ -32,7 +34,8 @@
 }
 
 .new-custom-about-last-image-bottom-subheading {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
@@ -85,7 +88,8 @@
   width: 100%;
 }
 .new-custom-about-last-c-w {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 43px;
   font-weight: 400;
   line-height: 1;
@@ -106,7 +110,8 @@
 }
 
 .new-custom-about-last-link-title {
-  font-family: "BebasNeue-Regular";
+  font-family: "Futura" !important;
+  text-transform: none !important;
   font-size: 43px;
   font-weight: 400;
   line-height: 1;
@@ -135,7 +140,8 @@
 }
 
 .new-custom-about-last-link-subtitle {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 1;

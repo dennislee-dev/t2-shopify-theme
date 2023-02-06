@@ -10,7 +10,8 @@
   top: 50%;
   left: -40px;
   transform: translate(0, -50%) rotate(-90deg);
-  font-family: "Poppins-Regular";
+  font-family: "Poppins-Regular" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 26px;
   font-weight: 400;
   line-height: 30px;
@@ -36,7 +37,8 @@
 }
 
 .text-video__wrapper .video__wrapper .text__wrapper .title {
-  font-family: "BebasNeue-Regular";
+  font-family: "Poppins-Regular" !important;
+  text-transform: none !important;
   font-size: 43px;
   font-weight: bold;
   line-height: 1;
@@ -46,9 +48,10 @@
 }
 
 .text-video__wrapper .video__wrapper .text__wrapper .subtitle {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 14px;
   font-style: normal;
   text-align: left;

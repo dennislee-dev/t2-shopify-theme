@@ -3,12 +3,12 @@
     "1660380503ba04e3dc": {
       "type": "custom-image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_17.gif",
-        "logo": "shopify:\/\/shop_images\/IMG_3206.png",
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker.gif",
+        "logo": "shopify:\/\/shop_images\/t2_wht.png",
         "bg_position": "center-center",
         "height": "use_screen_full",
         "overlay_opacity": 0,
-        "overlay_color": "#000000",
+        "overlay_color": "#ffffff",
         "kicker": "",
         "title": "",
         "title1": "",
@@ -32,18 +32,18 @@
       "settings": {
         "text": "ABOUT TSQUARED",
         "html1": "",
-        "html": "<div style='text-align: center;'><h2 class='hero__title h2'>showcase your favourite things\n<br> in a top ten list<br><br><a href=\"#\" class=\"makes\">MAKE<\/a>your list<\/h2>\n<\/div>",
+        "html": "<div style='text-align: center;'><h2 class='hero__title h2'>connection created through\n<br> the top ten things that bring you joy<br><br><a href=\"#\" class=\"makes\">DISCOVER<\/a>your next favorite<\/h2>\n<\/div>",
         "full_width": false
       }
     },
     "16603831709af6b8ad": {
       "type": "custom-links",
       "settings": {
-        "image1": "shopify:\/\/shop_images\/IMG_3689.jpg",
-        "image2": "shopify:\/\/shop_images\/IMG_3722.jpg",
-        "image3": "shopify:\/\/shop_images\/IMG_3723.jpg",
-        "image4": "shopify:\/\/shop_images\/IMG_3717.jpg",
-        "image5": "shopify:\/\/shop_images\/IMG_3680_2.jpg",
+        "image1": "shopify:\/\/shop_images\/Leariel.gif",
+        "image2": "shopify:\/\/shop_images\/Bows_before_bros__wildfoxcouture_yvessaintlaurent_inspo_fashion_copy.jpg",
+        "image3": "shopify:\/\/shop_images\/STUDIOCORAL.png",
+        "image4": "shopify:\/\/shop_images\/Camille_Charriere_Wore_an_Upcycled_Lace_Dress_to_Her_Roaring_2020s_Wedding_Celebration_at_Maxim_s_in_Paris.jpg",
+        "image5": "shopify:\/\/shop_images\/Molly_Goddard_AW18.jpg",
         "title1": "",
         "link1": "#",
         "title2": "FEATURED",
@@ -66,7 +66,7 @@
         "height": "use_screen_three_quarters",
         "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/107555e9d4664d07b05fbf9f53979489.mov",
         "object_position": "center-center",
-        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_18.gif",
+        "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_9a9a0b18-4895-41b0-8a94-f20996cc0b0e.gif",
         "bg_position": "center-center",
         "video_link": "",
         "popup_text": "",
@@ -76,7 +76,7 @@
         "text_align": "align--middle-center",
         "text_color": "text--white",
         "overlay_opacity": 0,
-        "overlay_color": "#000000",
+        "overlay_color": "#333333",
         "link_text": "",
         "link": "",
         "button_color": "btn--white",

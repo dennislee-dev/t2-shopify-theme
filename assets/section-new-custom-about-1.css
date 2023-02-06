@@ -15,7 +15,8 @@
 }
 
 .new-custom-about-one-top_title {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
@@ -29,7 +30,8 @@
 }
 
 .new-custom-about-one-title {
-  font-family: "Gambarino-Regular";
+  font-family: "Gambarino-Regular" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 115px;
   font-weight: 400;
   line-height: 1;
@@ -42,7 +44,8 @@
 }
 
 .new-custom-about-one-sub_title {
-  font-family: "Gambarino-Regular";
+  font-family: "Gambarino-Regular" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 80px;
   font-weight: 400;
   line-height: 1;
@@ -55,7 +58,8 @@
 }
 
 .new-custom-about-one-effect_text {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
@@ -75,7 +79,8 @@
 }
 
 .new-custom-about-one-content-wrapper p {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 400;
   line-height: 30px;
@@ -86,7 +91,8 @@
 }
 
 .new-custom-about-one-more {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;

@@ -8,7 +8,8 @@
 }
 
 .featured-cold .featured-heading {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
@@ -21,7 +22,8 @@
 }
 
 .featured-cold .featured-description p {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 400;
   line-height: 30px;
@@ -32,7 +34,8 @@
 }
 
 .featured-cold .featured-sub_description p {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
@@ -55,7 +58,8 @@
 }
 
 .featured-cold1 p {
-  font-family: "poppins";
+  font-family: "Poppins-Regular" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 26px;
   font-weight: 400;
   line-height: 30px;
@@ -93,7 +97,9 @@
 }
 
 .bottom-div h4 {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
+  text-transform: none !important;
   font-size: 43.20000076293945px;
   font-weight: 400;
   font-style: normal;
@@ -102,12 +108,13 @@
 }
 
 .bottom-div p {
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 500;
   line-height: 14px;
   font-style: normal;
-  letter-spacing: 4.83333206176758px;
+  letter-spacing: 2px;
   color: #171717;
   margin-top: 67px;
 }

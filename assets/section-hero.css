@@ -16,14 +16,20 @@
 .hero__title {
   padding: 0;
   margin-left: 20%;
-  font-family: "Exmouth";
+  font-family: "Gambarino-Regular" !important;
+  text-transform: none !important;
   font-size: 140px;
   font-weight: 400;
   line-height: 114px;
   font-style: normal;
   text-align: left;
   color: #f7f8fa;
-  max-width: 650px;
+  max-width: 530px;
+}
+
+.hero__title span {
+  font-family: "Exmouth" !important;
+  text-transform: none !important;
 }
 
 .hero-path-image {
@@ -45,11 +51,12 @@
   .hero__title {
     font-size: 90px;
     line-height: 100px;
-    max-width: 420px;
+    max-width: 340px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px)
+{
   .image__hero__frame {
     height: 60vh;
   }
@@ -58,8 +65,8 @@
   }
 
   .hero__title {
-    font-size: 50px;
+    font-size: 44px;
     line-height: 60px;
-    max-width: 250px;
+    max-width: 170px;
   }
 }

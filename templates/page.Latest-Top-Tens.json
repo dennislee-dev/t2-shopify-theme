@@ -26,7 +26,8 @@
         "overlay_opacity": 15,
         "overlay_color": "#000000",
         "kicker": "",
-        "title": "Lates Top Tens",
+        "title1": "Latest Top",
+        "title2": "Tens",
         "richtext": "",
         "text_align": "align--middle-center",
         "text_color": "text--white",
@@ -43,7 +44,7 @@
           "type": "product",
           "settings": {
             "image": "shopify:\/\/shop_images\/Image.webp",
-            "title": "TELA VOTIVE",
+            "title": "Tela Votive",
             "subtitle": "Elegant glass candle holder"
           }
         },
@@ -51,7 +52,7 @@
           "type": "product",
           "settings": {
             "image": "shopify:\/\/shop_images\/Image_1.webp",
-            "title": "LOOSE-FITTING BLAZER COAT",
+            "title": "Loose-Fitting Blazer Coat",
             "subtitle": "Long sleeves & rounded hem"
           }
         }
@@ -78,7 +79,7 @@
           "type": "product",
           "settings": {
             "image": "shopify:\/\/shop_images\/Image_2.webp",
-            "title": "GOLDEN HOOP EARRINGS",
+            "title": "Golden Hoop Earrings",
             "subtitle": "One size fits all"
           }
         },
@@ -87,7 +88,7 @@
           "settings": {
             "title": "MEET ME",
             "image": "shopify:\/\/shop_images\/Image_3.webp",
-            "name": "LIGHTLY LINED BRA",
+            "name": "Lightly Lined Bra",
             "intro": "Soft & wireless"
           }
         }
@@ -183,11 +184,12 @@
       "type": "title-content",
       "settings": {
         "top_title": "TOPTEN",
+        "bg_color": "",
         "title": "Talk to me",
         "sub_title1": "if you have some ideas for",
         "effect_text": "ANY",
         "sub_title2": "custom design",
-        "content": "<p>LOREM IPSUM, ETC.<\/p>\n<br>\n<p>INFORMATION TO CONNECT<\/p>",
+        "content": "<p>LOREM IPSUM, ETC.<\/p><p>INFORMATION TO CONNECT<\/p>",
         "bg": "palette--gray"
       }
     }

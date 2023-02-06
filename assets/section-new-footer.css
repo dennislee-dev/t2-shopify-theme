@@ -40,7 +40,8 @@
 }
 
 .new-footer-custom-links a {
-  font-family: "BebasNeue-Regular" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
+  font-family: "Futura" !important;
   font-size: 60px;
   font-weight: 400;
   line-height: 1;
@@ -52,7 +53,8 @@
   text-align: center;
   max-width: 370px;
   margin: 0 auto;
-  font-family: "Futura";
+  font-family: "Futura" !important;
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 14px;
   font-weight: 400;
   line-height: 30px;
@@ -62,6 +64,7 @@
 }
 
 .new-custom-text-footer p {
+  font-family: "Futura" !important;
   margin: 0;
 }
 

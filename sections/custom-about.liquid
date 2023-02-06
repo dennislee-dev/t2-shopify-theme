@@ -1,5 +1,5 @@
 <!-- /sections/section-html.liquid -->
-<div class="section-html{% unless section.settings.full_width %} wrapper{% endunless %}">
+<div class="section-{{ section.id }} section-html{% unless section.settings.full_width %} wrapper{% endunless %}">
   <br>
   <p>{{ section.settings.text }}</p>
   <br><br><br>
@@ -9,10 +9,27 @@
   <br><br><br><br><br>
 </div>
 <style>
+
+  .section-{{ section.id }} .hero__title {
+    font-family: Futura !important;
+    text-transform: none !important;
+  }
+
+  .section-{{ section.id }} .hero__title a {
+    font-family: Futura !important;
+    text-transform: none !important;
+  }
+  
   .section-html
   {
     text-align:center;
   }
+
+  .section-html p {
+    font-family: Futura !important;
+    font-weight: 500;
+  }
+
   .make,.whatelse
   {
     color:#FF5D00;

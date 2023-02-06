@@ -11,13 +11,16 @@
 
 .view-all-video__wrapper .text__wrapper .title {
   width: 100%;
-  max-width: 380px;
-  font-family: "BebasNeue-Regular";
+  max-width: 400px;
   font-size: 76px;
   font-weight: bold;
   line-height: 99px;
   font-style: normal;
-  text-align: left;
+  font-family: Poppins-Regular !important;
+  text-transform: none !important;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+  text-underline-offset: 18px;
   color: #000000;
   margin-bottom: 0;
 }
@@ -25,8 +28,9 @@
 .view-all-video__wrapper .text__wrapper .subtitle {
   width: 50%;
   font-family: "Futura";
+/*   font-family: "BebasNeue-Regular" !important; */
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 76px;
   font-style: normal;
   text-align: left;

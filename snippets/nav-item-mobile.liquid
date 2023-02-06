@@ -39,7 +39,7 @@
     <button class="sliderow"
       data-animates="{{ link_level }}"
       data-sliderule-open="sliderule-{{ key }}">
-      <span class="sliderow__title{% if highlight_links contains link_title_handle %} highlight--link{% endif %}">{{ link.title | escape }}</span>
+      <span class="swit sliderow__title{% if highlight_links contains link_title_handle %} highlight--link{% endif %}">{{ link.title | escape }}</span>
       <span class="sliderule__chevron--right">
         {% render 'icon-arrow-medium-right' %}
         <span class="visually-hidden">{{ 'general.accessibility.expand_menu' | t }}</span>

@@ -2,17 +2,27 @@
 <div class="section-html-{{ section.id }}">
   <div class="left-block">
     <div class="one-line">
-      <h2>{{ section.settings.heading }} </h2>
-      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="2em" height="2em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M12 20v-8m0 0V4m0 8h8m-8 0H4"/></svg>
+      <h2>{{ section.settings.heading }}</h2>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        aria-hidden="true"
+        role="img"
+        width="2em"
+        height="2em"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 24 24"
+      >
+        <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M12 20v-8m0 0V4m0 8h8m-8 0H4"/>
+      </svg>
     </div>
     <p>{{ section.settings.text }}</p>
   </div>
   {% comment %}
-  <div class="right-block">
-    <a class="shop-all" href="{{ section.settings.link }}">
-      {{ section.settings.link-title }}
-    </a>
-  </div>
+    <div class="right-block">
+      <a class="shop-all" href="{{ section.settings.link }}">
+        {{ section.settings.link-title }}
+      </a>
+    </div>
   {% endcomment %}
 </div>
 <style>
@@ -28,11 +38,16 @@
   .left-block
   {
     width:50%;
-    text-align:center;
     padding:0px 5%;
   }
-  .left-block p, .left-block .one-line
+  .left-block .one-line h2
   {
+    font-family: Switzer-Semibold !important;
+    text-align:left;
+    text-transform: none !important;
+  }
+  .left-block p {
+    font-family: Switzer-Regular !important;
     text-align:left;
   }
   .right-block
@@ -48,7 +63,7 @@
     color:#EBA443;
     font-size:1.5rem;
   }
-  .one-line h2 
+  .one-line h2
   {
     display:inline-block;
     width:88%;
@@ -67,35 +82,33 @@
     {
       width:100%;
     }
-    
+
   }
-  
 </style>
 {% schema %}
 {
   "name": "Custom text plus",
   "settings": [
     {
-          "type": "text",
-          "id": "heading",
-          "label": "Heading"
+      "type": "text",
+      "id": "heading",
+      "label": "Heading"
     },
     {
-          "type": "textarea",
-          "id": "text",
-          "label": "Text"
+      "type": "textarea",
+      "id": "text",
+      "label": "Text"
     },
     {
-          "type": "text",
-          "id": "link-title",
-          "label": "link text"
+      "type": "text",
+      "id": "link-title",
+      "label": "link text"
     },
     {
-          "type": "url",
-          "id": "link",
-          "label": "Link"
+      "type": "url",
+      "id": "link",
+      "label": "Link"
     }
-    
   ],
   "presets": [
     {

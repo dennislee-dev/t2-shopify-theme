@@ -3,9 +3,8 @@
     "main": {
       "type": "customer-register",
       "settings": {
-        "image": "shopify:\/\/shop_images\/unspecified-1_300x300_5a18ae79-0c6a-4b02-8e41-34bd71c1df63.jpg",
-        "bk-desk": "shopify:\/\/shop_images\/wantsmore_peachbg_hand1.jpg",
-        "bk-mob": "shopify:\/\/shop_images\/wantsmore_peachbg_hand1.jpg"
+        "image": "shopify:\/\/shop_images\/TOP_TEN_18_x_18_in.png",
+        "bk-desk": "shopify:\/\/shop_images\/Camille_Charriere_Wore_an_Upcycled_Lace_Dress_to_Her_Roaring_2020s_Wedding_Celebration_at_Maxim_s_in_Paris.jpg"
       }
     }
   },
