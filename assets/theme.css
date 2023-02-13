@@ -24567,7 +24567,7 @@ svg.icon.icon-cart {
 
 a.swit.sliderow__title {
   font-family: Futura !important;
-  font-weight: var(--FONT-WEIGHT-HEADING);
+  font-weight: bolder;
   font-style: var(--FONT-STYLE-HEADING);
   font-size: 22px;
   font-kerning: normal;

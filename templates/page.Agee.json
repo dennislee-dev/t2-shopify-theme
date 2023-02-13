@@ -44,7 +44,7 @@
           "settings": {
             "showconten": false,
             "accessc": "FEATURED",
-            "profile1": "shopify:\/\/shop_images\/Melanie_Masarin_Feature.jpg",
+            "profile1": "shopify:\/\/shop_images\/Agee_Leinberry_Feature_Image_6f7cb558-4594-4a7b-a156-9ac2abb3f067.jpg",
             "img1": "shopify:\/\/shop_images\/Premium-Market-Gallery-Lau-Nvy-Stripe_1605x1800_41e3b0df-a44d-4b03-ad7b-fc638a637f74.jpg",
             "link_url1": "https:\/\/businessandpleasureco.com\/products\/the-market-umbrella-laurens-navy-stripe?variant=32991577243751&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvzGCwV1QfsL_QAcoPJeoyRJQNQSO1Jb32tg7zwdQ8szZZskU-OUBvcaAiroEALw_wcB",
             "img2": "shopify:\/\/shop_images\/il_1140xN.3683024681_meng.jpg",
@@ -80,10 +80,95 @@
             "heading2": "",
             "sub-heading2": ""
           }
+        },
+        "c7257b35-e8f6-4569-8653-1fa42bd5c726": {
+          "type": "block-2",
+          "disabled": true,
+          "settings": {
+            "showconten": true,
+            "accessc": "",
+            "link_url1": "",
+            "link_url2": "",
+            "link_url3": "",
+            "link_url4": "",
+            "link_url5": "",
+            "link_url6": "",
+            "link_url7": "",
+            "link_url8": "",
+            "link_url9": "",
+            "link_url10": "",
+            "heading1": "",
+            "sub-heading1": "",
+            "link_url11": "",
+            "link_url12": "",
+            "link_url13": "",
+            "link_url14": "",
+            "link_url15": "",
+            "link_url16": "",
+            "link_url17": "",
+            "link_url18": "",
+            "link_url19": "",
+            "link_url20": "",
+            "heading2": "",
+            "sub-heading2": ""
+          }
         }
       },
       "block_order": [
-        "c71d39c2-0cfa-489c-9f4d-00fe954af3c2"
+        "c71d39c2-0cfa-489c-9f4d-00fe954af3c2",
+        "c7257b35-e8f6-4569-8653-1fa42bd5c726"
+      ],
+      "settings": {
+      }
+    },
+    "e8a361cd-0d12-4e9b-a201-35f20270045c": {
+      "type": "tab_blogs",
+      "disabled": true,
+      "blocks": {
+        "134d4360-ce85-4a99-9c3b-27aaad0c4e58": {
+          "type": "block-1",
+          "settings": {
+            "link__url": "",
+            "tab_ttl": "agee",
+            "access": ""
+          }
+        },
+        "88299523-07c1-4e05-ab16-751f87c4a289": {
+          "type": "block-2",
+          "settings": {
+            "showconten": true,
+            "accessc": "",
+            "profile1": "shopify:\/\/shop_images\/Agee_Leinberry_Feature_Image_6f7cb558-4594-4a7b-a156-9ac2abb3f067.jpg",
+            "link_url1": "",
+            "link_url2": "",
+            "link_url3": "",
+            "link_url4": "",
+            "link_url5": "",
+            "link_url6": "",
+            "link_url7": "",
+            "link_url8": "",
+            "link_url9": "",
+            "link_url10": "",
+            "heading1": "",
+            "sub-heading1": "",
+            "link_url11": "",
+            "link_url12": "",
+            "link_url13": "",
+            "link_url14": "",
+            "link_url15": "",
+            "link_url16": "",
+            "link_url17": "",
+            "link_url18": "",
+            "link_url19": "",
+            "link_url20": "",
+            "heading2": "",
+            "sub-heading2": ""
+          }
+        }
+      },
+      "block_order": [
+        "134d4360-ce85-4a99-9c3b-27aaad0c4e58",
+        "88299523-07c1-4e05-ab16-751f87c4a289"
       ],
       "settings": {
       }
@@ -92,6 +177,7 @@
   "order": [
     "main",
     "1845d2c3-a8ef-492d-b8f9-683208408e14",
-    "16648922938c347e91"
+    "16648922938c347e91",
+    "e8a361cd-0d12-4e9b-a201-35f20270045c"
   ]
 }

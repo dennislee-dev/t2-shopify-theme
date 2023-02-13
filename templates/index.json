@@ -27,12 +27,26 @@
       "settings": {
       }
     },
+    "5af1286b-fa13-49b9-8a37-9384693a242f": {
+      "type": "title-content",
+      "settings": {
+        "top_title": "ABOUT TSQUARED",
+        "bg_color": "",
+        "title": "Connection",
+        "sub_title1": "created through the",
+        "effect_text": "TOP TEN",
+        "sub_title2": "things that bring you joy",
+        "content": "<p><a href=\"\/pages\/latest-top-tens\" target=\"_blank\" title=\"Latest Top Tens\">DISCOVER YOUR NEXT FAVOURITE<\/a><\/p>",
+        "bg": "palette--light bg--neutral"
+      }
+    },
     "1660385520f78d6a4a": {
       "type": "custom-about",
+      "disabled": true,
       "settings": {
         "text": "ABOUT TSQUARED",
         "html1": "",
-        "html": "<div style='text-align: center;'><h2 class='hero__title h2'>connection created through\n<br> the top ten things that bring you joy<br><br><a href=\"#\" class=\"makes\">DISCOVER<\/a>your next favorite<\/h2>\n<\/div>",
+        "html": "<div style='text-align: center;'><h2 class='hero__title h2'>Connection created through\n<br> the top ten things that bring you joy<br><br><a href=\"#\" class=\"makes\">Discover<\/a>your next favorite<\/h2>\n<\/div>",
         "full_width": false
       }
     },
@@ -206,29 +220,241 @@
     "16604004202e683382": {
       "type": "custom-text-plus",
       "settings": {
-        "heading": "arlo gray",
+        "heading": "Arlo Gray",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum tempore vero error accusantium possimus, tenetur necessitatibus adipisci distinctio quidem quam numquam laborum, nisi aut ea sed est magnam consectetur similique? Sed, nemo delectus? Natus enim impedit itaque illo eum, voluptate obcaecati harum, in nesciunt maiores temporibus similique nihil, quaerat dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, totam corrupti quisquam eveniet asperiores ex molestiae architecto suscipit molestias! At?",
         "link-title": "SHOP ALL",
         "link": "#"
       }
     },
+    "b2d3dcf6-167f-40eb-a00b-dca323f1e90c": {
+      "type": "title-content",
+      "settings": {
+        "top_title": "HEY",
+        "bg_color": "",
+        "title": "A Top Ten",
+        "sub_title1": "is a look into someone’s life: the tote bag that keeps them organized, the",
+        "effect_text": "SONG",
+        "sub_title2": "they had their first dance to, an avocado slicer",
+        "content": "<p><a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">CONTACT US<\/a><\/p>",
+        "bg": "palette--light bg--neutral"
+      }
+    },
     "166125398351ceac10": {
       "type": "section-html",
+      "disabled": true,
       "settings": {
         "html": "<div >\n<br><br>\n      <p>HEY<\/p>\n      <br><br>\n      <h2>A Top Ten is a look into someone’s life-\n<br>\nthe tote bag that keeps them organized,\n<br>  \nthe song they had their first dance to, an avocado slicer.<\/h2><br><br>\n      <p><\/p>\n<p><\/p>\n<p><\/p>\n<br>\n<p><a href=\"#\" class=\"here\">CONTACT US<\/a>\n<\/p>\n  <\/div>\n<br><br>",
         "full_width": false
+      }
+    },
+    "36de6708-100a-48c5-b3fd-bc94dcb3baa9": {
+      "type": "image-text-grid",
+      "blocks": {
+        "8cff8cc0-f795-4845-9350-5d25d9bbe030": {
+          "type": "meetme",
+          "disabled": true,
+          "settings": {
+            "title": "AGEE",
+            "image": "shopify:\/\/shop_images\/Agee_Leinberry_Feature_Image_6f7cb558-4594-4a7b-a156-9ac2abb3f067.jpg",
+            "name": "AGEE",
+            "intro": "AGEE"
+          }
+        },
+        "43ae3e88-715f-4fe4-8d6f-68ea7586cc79": {
+          "type": "user_profile",
+          "settings": {
+            "title": "AGEE",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.01.23_PM.png",
+            "contact_info": "AGEE",
+            "description": "AGEE"
+          }
+        },
+        "898d0ba2-e127-43c6-8c79-a0b2805e8033": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.00.47_PM.png",
+            "title": "MORE",
+            "subtitle": "more"
+          }
+        }
+      },
+      "block_order": [
+        "8cff8cc0-f795-4845-9350-5d25d9bbe030",
+        "43ae3e88-715f-4fe4-8d6f-68ea7586cc79",
+        "898d0ba2-e127-43c6-8c79-a0b2805e8033"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "7ff0538e-855c-4308-a32f-8f3d52fa73ed": {
+      "type": "image-text-grid",
+      "blocks": {
+        "6d23d4fd-3e48-46cb-85a8-86924ff71c1d": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.01.40_PM.png",
+            "title": "",
+            "subtitle": ""
+          }
+        },
+        "69d543af-8966-428b-8f0e-84d3723af100": {
+          "type": "user_profile",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.01.57_PM.png",
+            "contact_info": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "6d23d4fd-3e48-46cb-85a8-86924ff71c1d",
+        "69d543af-8966-428b-8f0e-84d3723af100"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "3a8e1a6c-68a0-4e2d-8a8c-64b67f5498d5": {
+      "type": "image-text-grid",
+      "blocks": {
+        "926cebcb-0ec9-43e1-8f0b-0764d342281f": {
+          "type": "user_profile",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.02.53_PM.png",
+            "contact_info": "",
+            "description": ""
+          }
+        },
+        "a1003685-5544-4775-8106-de28fe6e0d2d": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.02.35_PM.png",
+            "title": "",
+            "subtitle": ""
+          }
+        }
+      },
+      "block_order": [
+        "926cebcb-0ec9-43e1-8f0b-0764d342281f",
+        "a1003685-5544-4775-8106-de28fe6e0d2d"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "f01ff27f-c5de-44ff-9142-5e760d5552d6": {
+      "type": "image-text-grid",
+      "blocks": {
+        "46f8bebc-0569-4781-b16a-6a26ce606335": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.03.25_PM.png",
+            "title": "",
+            "subtitle": ""
+          }
+        },
+        "9aacf3f9-f298-45e7-aff5-f5b7af870e86": {
+          "type": "user_profile",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.03.43_PM.png",
+            "contact_info": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "46f8bebc-0569-4781-b16a-6a26ce606335",
+        "9aacf3f9-f298-45e7-aff5-f5b7af870e86"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "714a93fd-d920-42c3-8acd-5c2647b28aba": {
+      "type": "image-text-grid",
+      "blocks": {
+        "0fc5e932-67db-44c9-a659-810ccce786fa": {
+          "type": "user_profile",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.04.29_PM.png",
+            "contact_info": "",
+            "description": ""
+          }
+        },
+        "6e65419f-6fab-46c7-a068-3d4958b16037": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-10_at_12.04.14_PM.png",
+            "title": "",
+            "subtitle": ""
+          }
+        }
+      },
+      "block_order": [
+        "0fc5e932-67db-44c9-a659-810ccce786fa",
+        "6e65419f-6fab-46c7-a068-3d4958b16037"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
       }
     }
   },
   "order": [
     "1660380503ba04e3dc",
     "166149232574405903",
+    "5af1286b-fa13-49b9-8a37-9384693a242f",
     "1660385520f78d6a4a",
     "16603831709af6b8ad",
     "166038651794b73803",
     "1660388869c241ee79",
     "1660396408c10827ce",
     "16604004202e683382",
-    "166125398351ceac10"
+    "b2d3dcf6-167f-40eb-a00b-dca323f1e90c",
+    "166125398351ceac10",
+    "36de6708-100a-48c5-b3fd-bc94dcb3baa9",
+    "7ff0538e-855c-4308-a32f-8f3d52fa73ed",
+    "3a8e1a6c-68a0-4e2d-8a8c-64b67f5498d5",
+    "f01ff27f-c5de-44ff-9142-5e760d5552d6",
+    "714a93fd-d920-42c3-8acd-5c2647b28aba"
   ]
 }
