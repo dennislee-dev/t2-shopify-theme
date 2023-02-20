@@ -17,6 +17,7 @@
     },
     "1845d2c3-a8ef-492d-b8f9-683208408e14": {
       "type": "profile-one",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_14_df347038-e7ff-4963-9e94-3e7a42ce87e9.gif",
         "logo": "shopify:\/\/shop_images\/Alexa_Davis_Feature_Image.webp",
@@ -38,6 +39,7 @@
     },
     "16648922938c347e91": {
       "type": "tab_blogs",
+      "disabled": true,
       "blocks": {
         "c71d39c2-0cfa-489c-9f4d-00fe954af3c2": {
           "type": "block-2",
@@ -98,11 +100,39 @@
       ],
       "settings": {
       }
+    },
+    "74094d39-e428-4f88-8660-cf89d230b92d": {
+      "type": "image-description",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "c99b7bd5-87e9-4e6d-b302-484e343f7015": {
+      "type": "image-slider",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "c2ab6c8b-af2b-42b6-ad3f-0d2f392aa9e2": {
+      "type": "custom-two-images-vertical",
+      "settings": {
+        "top_url": "",
+        "bottom_url": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "main",
     "1845d2c3-a8ef-492d-b8f9-683208408e14",
-    "16648922938c347e91"
+    "16648922938c347e91",
+    "74094d39-e428-4f88-8660-cf89d230b92d",
+    "c99b7bd5-87e9-4e6d-b302-484e343f7015",
+    "c2ab6c8b-af2b-42b6-ad3f-0d2f392aa9e2"
   ]
 }

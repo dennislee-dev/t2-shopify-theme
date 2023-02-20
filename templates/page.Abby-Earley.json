@@ -17,6 +17,7 @@
     },
     "1845d2c3-a8ef-492d-b8f9-683208408e14": {
       "type": "profile-one",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_14_df347038-e7ff-4963-9e94-3e7a42ce87e9.gif",
         "logo": "shopify:\/\/shop_images\/Abby_Earley_Feature_b83229da-8962-4392-8be2-1c5730368492.webp",
@@ -38,6 +39,7 @@
     },
     "16648922938c347e91": {
       "type": "tab_blogs",
+      "disabled": true,
       "blocks": {
         "c71d39c2-0cfa-489c-9f4d-00fe954af3c2": {
           "type": "block-2",
@@ -92,11 +94,39 @@
       ],
       "settings": {
       }
+    },
+    "c1c968b6-a48e-4b3b-81f0-fb62a9629704": {
+      "type": "image-description",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "91efb586-82b3-457c-a9ef-85728fa6141f": {
+      "type": "image-slider",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "293b4d53-11f5-4023-8d88-eeb4a68f56a8": {
+      "type": "custom-two-images-vertical",
+      "settings": {
+        "top_url": "",
+        "bottom_url": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "main",
     "1845d2c3-a8ef-492d-b8f9-683208408e14",
-    "16648922938c347e91"
+    "16648922938c347e91",
+    "c1c968b6-a48e-4b3b-81f0-fb62a9629704",
+    "91efb586-82b3-457c-a9ef-85728fa6141f",
+    "293b4d53-11f5-4023-8d88-eeb4a68f56a8"
   ]
 }

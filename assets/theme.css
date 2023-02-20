@@ -24485,6 +24485,11 @@ body[style*="overflow: hidden"] .upsell__modal {
   src: url("Poppins-Regular.ttf");
 }
 
+@font-face {
+  font-family: "Arimo-Regular";
+  src: url("Arimo-Regular.ttf");
+}
+
 .beba {
   font-family: BebasNeue-Regular !important;
 }

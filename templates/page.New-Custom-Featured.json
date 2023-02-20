@@ -1,0 +1,272 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "adc32f16-e564-449f-87a7-3fc04cf6570b": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_10.webp",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title1": "Featured",
+        "title2": "",
+        "richtext": "",
+        "text_align": "align--middle-left",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "32d963ea-7cc8-4779-a2b3-2b2cf80b8956": {
+      "type": "image-text-grid",
+      "blocks": {
+        "611a40ed-0eb7-4827-a43d-a7ae576bd6e8": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2_a3d2eab3-9c62-4703-a89d-16cbc1da9499.png",
+            "title": "KATIE MCEVOY",
+            "subtitle": "BIO"
+          }
+        },
+        "500d021d-2191-40a6-9d81-6eb0b0ad758a": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_6e46aaa9-0528-4f40-9dc7-b78cf6784a1d.png",
+            "title": "ARLO GRAY",
+            "subtitle": "BIO"
+          }
+        }
+      },
+      "block_order": [
+        "611a40ed-0eb7-4827-a43d-a7ae576bd6e8",
+        "500d021d-2191-40a6-9d81-6eb0b0ad758a"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "913c996f-1016-4257-b56d-59041130d849": {
+      "type": "image-text-grid",
+      "blocks": {
+        "ac1f0b40-cb9a-4712-a475-4539a7e321d4": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_6e46aaa9-0528-4f40-9dc7-b78cf6784a1d.png",
+            "title": "KATIE MCEVOY",
+            "subtitle": "BIO"
+          }
+        },
+        "e06b21cd-0b0d-4394-bcf6-58583f56efd3": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2_a3d2eab3-9c62-4703-a89d-16cbc1da9499.png",
+            "title": "ARLO GRAY",
+            "subtitle": "BIO"
+          }
+        }
+      },
+      "block_order": [
+        "ac1f0b40-cb9a-4712-a475-4539a7e321d4",
+        "e06b21cd-0b0d-4394-bcf6-58583f56efd3"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "0e61cdcd-173d-4a80-ab80-01c7ac5a61d6": {
+      "type": "image-text-grid",
+      "blocks": {
+        "6c4b3d6a-3553-4a25-b6d5-11034f1ef8d8": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2_a3d2eab3-9c62-4703-a89d-16cbc1da9499.png",
+            "title": "KATIE MCEVOY",
+            "subtitle": "BIO"
+          }
+        },
+        "b749f459-bf89-4605-ba54-0a56ff65ea5d": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_6e46aaa9-0528-4f40-9dc7-b78cf6784a1d.png",
+            "title": "ARLO GRAY",
+            "subtitle": "BIO"
+          }
+        }
+      },
+      "block_order": [
+        "6c4b3d6a-3553-4a25-b6d5-11034f1ef8d8",
+        "b749f459-bf89-4605-ba54-0a56ff65ea5d"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "379c3891-f636-47d7-92d7-f5b9448b310f": {
+      "type": "image-text-grid",
+      "blocks": {
+        "97599a9c-3c16-4877-a389-c479276f5a9a": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2_a3d2eab3-9c62-4703-a89d-16cbc1da9499.png",
+            "title": "KATIE MCEVOY",
+            "subtitle": "BIO"
+          }
+        },
+        "ece547b7-d8b0-4786-8c71-41607a6bed6c": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_6e46aaa9-0528-4f40-9dc7-b78cf6784a1d.png",
+            "title": "ARLO GRAY",
+            "subtitle": "BIO"
+          }
+        }
+      },
+      "block_order": [
+        "97599a9c-3c16-4877-a389-c479276f5a9a",
+        "ece547b7-d8b0-4786-8c71-41607a6bed6c"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "03a1b8ee-66cf-4ae4-bed2-9d75c627cb55": {
+      "type": "image-text-grid",
+      "blocks": {
+        "558e1d96-ea14-491e-b9ba-d6f269484703": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2_a3d2eab3-9c62-4703-a89d-16cbc1da9499.png",
+            "title": "KATIE MCEVOY",
+            "subtitle": "BIO"
+          }
+        },
+        "b456a6f5-656e-46aa-955c-19a90f880db2": {
+          "type": "product_caption",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_6e46aaa9-0528-4f40-9dc7-b78cf6784a1d.png",
+            "title": "ARLO GRAY",
+            "subtitle": "BIO"
+          }
+        }
+      },
+      "block_order": [
+        "558e1d96-ea14-491e-b9ba-d6f269484703",
+        "b456a6f5-656e-46aa-955c-19a90f880db2"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "e016ceac-3a02-4344-a913-a01d0073a370": {
+      "type": "image-text-grid",
+      "blocks": {
+        "2020daa4-30e0-4e18-9760-a7a8843f9d02": {
+          "type": "product_caption",
+          "settings": {
+            "title": "",
+            "subtitle": ""
+          }
+        },
+        "0bb1a4f9-7920-46cd-9272-937af4cbab6a": {
+          "type": "product_caption",
+          "settings": {
+            "title": "",
+            "subtitle": ""
+          }
+        }
+      },
+      "block_order": [
+        "2020daa4-30e0-4e18-9760-a7a8843f9d02",
+        "0bb1a4f9-7920-46cd-9272-937af4cbab6a"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "149ee343-eebb-409c-bd21-b21996d928c1": {
+      "type": "image-text-grid",
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "adc32f16-e564-449f-87a7-3fc04cf6570b",
+    "32d963ea-7cc8-4779-a2b3-2b2cf80b8956",
+    "913c996f-1016-4257-b56d-59041130d849",
+    "0e61cdcd-173d-4a80-ab80-01c7ac5a61d6",
+    "379c3891-f636-47d7-92d7-f5b9448b310f",
+    "03a1b8ee-66cf-4ae4-bed2-9d75c627cb55",
+    "e016ceac-3a02-4344-a913-a01d0073a370",
+    "149ee343-eebb-409c-bd21-b21996d928c1"
+  ]
+}

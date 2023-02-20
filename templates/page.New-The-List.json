@@ -1,0 +1,261 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "553953a1-aaf5-46af-9573-5c6d5adfc35b": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_1_6e46aaa9-0528-4f40-9dc7-b78cf6784a1d.png",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title1": "The List",
+        "title2": "",
+        "richtext": "",
+        "text_align": "align--middle-left",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "395fa861-6cba-43bd-8ec9-4cbded935c41": {
+      "type": "image-slider",
+      "blocks": {
+        "fd248cdb-0b7c-4f46-b106-7383e7730ea5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/T21.png",
+            "product_url": "",
+            "text": "Live"
+          }
+        },
+        "68977cfc-5162-485c-89f2-f72b25395411": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/T22.png",
+            "product_url": "",
+            "text": "Wear"
+          }
+        },
+        "3235c17e-bdc0-482f-a6f7-137bfc33c5b5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/T24.png",
+            "product_url": "",
+            "text": "Carry"
+          }
+        },
+        "ee7e0f97-4903-46c0-a892-b638ecd1c139": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/T25.png",
+            "product_url": "",
+            "text": "Look + Feel"
+          }
+        },
+        "5e1b9452-2313-4f41-a771-98d97b75636a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/T23.png",
+            "product_url": "",
+            "text": "Etc."
+          }
+        }
+      },
+      "block_order": [
+        "fd248cdb-0b7c-4f46-b106-7383e7730ea5",
+        "68977cfc-5162-485c-89f2-f72b25395411",
+        "3235c17e-bdc0-482f-a6f7-137bfc33c5b5",
+        "ee7e0f97-4903-46c0-a892-b638ecd1c139",
+        "5e1b9452-2313-4f41-a771-98d97b75636a"
+      ],
+      "settings": {
+        "padding_top": 200,
+        "padding_bottom": 180
+      }
+    },
+    "81ed1916-3369-4a84-946c-e65cde613bf1": {
+      "type": "image-text-grid",
+      "blocks": {
+        "0cebda1f-1ccc-40e3-9df9-182c30d3f84e": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_0301e4d6-16ea-4ae5-bd3f-57968ebf2564.png",
+            "title": "Global Hoops Earnings",
+            "subtitle": "One size filt all"
+          }
+        },
+        "683cf07f-ad93-4de0-8555-22ed69201a72": {
+          "type": "meetme",
+          "settings": {
+            "title": "Meet me",
+            "image": "shopify:\/\/shop_images\/Image_1_0301e4d6-16ea-4ae5-bd3f-57968ebf2564.png",
+            "name": "Global Hoops",
+            "intro": "Lightly Lined Bra"
+          }
+        }
+      },
+      "block_order": [
+        "0cebda1f-1ccc-40e3-9df9-182c30d3f84e",
+        "683cf07f-ad93-4de0-8555-22ed69201a72"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "0bc93732-7731-4ac3-b26b-39ee1986ae6c": {
+      "type": "custom-list",
+      "settings": {
+        "sub-heading": "",
+        "title1": "thesf",
+        "title2": "",
+        "title3": "",
+        "sub-title1": "asdfsd",
+        "sub-link1": "asdfsdf",
+        "sub-title2": "",
+        "sub-link2": "",
+        "sub-title3": "",
+        "sub-link3": "",
+        "sub-title4": "",
+        "sub-link4": "",
+        "sub-title5": "",
+        "sub-link5": "",
+        "sub-title6": "",
+        "sub-link6": "",
+        "sub-title7": "",
+        "sub-link7": "",
+        "sub-title8": "",
+        "sub-link8": ""
+      }
+    },
+    "89e8615f-cec9-4ea2-8e03-77961b0109b8": {
+      "type": "section-columns",
+      "blocks": {
+        "template--15761431429315__89e8615f-cec9-4ea2-8e03-77961b0109b8-167666611862fb0425-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Image_7.png",
+            "bg_position": "left-center",
+            "title": "Carry",
+            "text": "<p>Add a video popup link to show a play button. <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--15761431429315__89e8615f-cec9-4ea2-8e03-77961b0109b8-167666611862fb0425-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Image_7.png",
+            "bg_position": "left-center",
+            "title": "Feature",
+            "text": "<p>Add a video popup link to show a play button. <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--15761431429315__89e8615f-cec9-4ea2-8e03-77961b0109b8-167666611862fb0425-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Image_7.png",
+            "bg_position": "left-center",
+            "title": "Feature",
+            "text": "<p>Add a video popup link to show a play button. <\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--15761431429315__89e8615f-cec9-4ea2-8e03-77961b0109b8-167666611862fb0425-0",
+        "template--15761431429315__89e8615f-cec9-4ea2-8e03-77961b0109b8-167666611862fb0425-1",
+        "template--15761431429315__89e8615f-cec9-4ea2-8e03-77961b0109b8-167666611862fb0425-2"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "aspect_ratio": 1
+      }
+    },
+    "77e7f68c-a96a-495a-a67c-d044201968b1": {
+      "type": "image-text-grid",
+      "blocks": {
+        "1e015041-f3e0-41a9-b800-9fd7fbe97725": {
+          "type": "user_profile",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Image_5.png",
+            "contact_info": "",
+            "description": ""
+          }
+        },
+        "ed631687-f7a6-400c-8d41-d3bc85841952": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Item_2.png",
+            "title": "",
+            "subtitle": ""
+          }
+        }
+      },
+      "block_order": [
+        "1e015041-f3e0-41a9-b800-9fd7fbe97725",
+        "ed631687-f7a6-400c-8d41-d3bc85841952"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "grid_title": "",
+        "desktop_margin_top": 10,
+        "desktop_margin_bottom": 10,
+        "mobile_margin_top": 10,
+        "mobile_margin_bottom": 10,
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "553953a1-aaf5-46af-9573-5c6d5adfc35b",
+    "395fa861-6cba-43bd-8ec9-4cbded935c41",
+    "81ed1916-3369-4a84-946c-e65cde613bf1",
+    "0bc93732-7731-4ac3-b26b-39ee1986ae6c",
+    "89e8615f-cec9-4ea2-8e03-77961b0109b8",
+    "77e7f68c-a96a-495a-a67c-d044201968b1"
+  ]
+}

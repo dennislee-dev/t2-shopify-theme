@@ -7,69 +7,92 @@
   {%- assign scroll_class = 'has-scroll-arrow' -%}
 {%- endif -%}
 
-<div class="section--image fade-in-child js-overflow-container {{ scroll_class }} {{ section.settings.text_color }}" 
-  data-section-id="{{ section.id }}" 
-  data-section-type="hero" 
-  data-overlay-header>
-  {% if section.settings.title != "" %}
+<div
+  class="section--image fade-in-child js-overflow-container {{ scroll_class }} {{ section.settings.text_color }}"
+  data-section-id="{{ section.id }}"
+  data-section-type="hero"
+  data-overlay-header
+>
+  {% if section.settings.path_image != blank %}
     <img src="{{ section.settings.path_image | img_url: '700x' }}" class="hero-path-image" alt="hero_path_image">
   {% endif %}
   <div class="hero__content__wrapper {{ section.settings.text_align }}">
     <div class="hero__content js-overflow-content">
       {%- assign animation_anchor = "[data-section-id='" | append: section.id | append: "']" -%}
       {% unless section.settings.kicker == '' %}
-        <p class="hero__kicker"
+        <p
+          class="hero__kicker"
           data-aos="hero"
           data-aos-anchor="{{ animation_anchor }}"
-          data-aos-order="1">
+          data-aos-order="1"
+        >
           {{ section.settings.kicker | escape }}
         </p>
       {% endunless %}
       {% unless section.settings.title == '' %}
-        <h1 class="hero__title h2"
+        <h1
+          class="hero__title h2"
           data-aos="hero"
           data-aos-anchor="{{ animation_anchor }}"
-          data-aos-order="2">
-          {{ section.settings.title1 | escape }} <span>{{ section.settings.title2 | escape }}</span>
+          data-aos-order="2"
+        >
+          {{ section.settings.title1 | escape }}
+          <span>{{ section.settings.title2 | escape }}</span>
         </h1>
       {% endunless %}
       {% unless section.settings.richtext == '' %}
-        <div class="hero__description h5--body"
+        <div
+          class="hero__description h5--body"
           data-aos="hero"
           data-aos-anchor="{{ animation_anchor }}"
-          data-aos-order="3">
+          data-aos-order="3"
+        >
           {{ section.settings.richtext }}
         </div>
       {% endunless %}
       {% unless section.settings.link_text == '' %}
-        <a class="{{ section.settings.button_style }} {{ section.settings.button_color }} hero__btn btn--long uppercase" 
+        <a
+          class="{{ section.settings.button_style }} {{ section.settings.button_color }} hero__btn btn--long uppercase"
           href="{{ section.settings.link }}"
           data-aos="hero"
           data-aos-anchor="{{ animation_anchor }}"
-          data-aos-order="4">
+          data-aos-order="4"
+        >
           {{ section.settings.link_text | escape }}
         </a>
       {% endunless %}
     </div>
   </div>
 
-  <div class="image-overlay" style="--bg: {{ section.settings.overlay_color }}; opacity: {{ section.settings.overlay_opacity | times: 0.01 }};"></div>
+  <div
+    class="image-overlay"
+    style="--bg: {{ section.settings.overlay_color }}; opacity: {{ section.settings.overlay_opacity | times: 0.01 }};"
+  ></div>
 
   {% if section.settings.link_text == '' and section.settings.link %}
-    <a class="link-over-image" href="{{ section.settings.link }}" aria-label="{{ section.settings.title | strip_html | escape }}"></a>
+    <a
+      class="link-over-image"
+      href="{{ section.settings.link }}"
+      aria-label="{{ section.settings.title | strip_html | escape }}"
+    ></a>
   {% endif %}
 
   {%- assign desktop_image_modifier = '' -%}
   {%- assign mobile_image = '' -%}
   {%- if section.settings.mobile_image != blank -%}
     {%- assign desktop_image_modifier = 'desktop' -%}
-    
+
     {%- capture mobile_image -%}
       {% render 'hero', img_object: section.settings.mobile_image, frame_height_class: section.settings.height, bg_position: section.settings.bg_position, modifier: 'mobile' %}
     {%- endcapture -%}
   {%- endif -%}
 
-  {% render 'hero', img_object: section.settings.image, frame_height_class: section.settings.height, bg_position: section.settings.bg_position, modifier: desktop_image_modifier %}
+  {% render 'hero',
+    img_object: section.settings.image,
+    frame_height_class: section.settings.height,
+    bg_position: section.settings.bg_position,
+    modifier: desktop_image_modifier
+  %}
 
   {{ mobile_image }}
 
@@ -120,26 +143,26 @@
       "label": "Section height",
       "default": "use_screen_two_thirds",
       "options": [
-        { "value": "use_screen_full", "label": "Full screen height"},
-        { "value": "use_screen_three_quarters", "label": "Three quarters of screen height"},
-        { "value": "use_screen_two_thirds", "label": "Two thirds of screen height"},
-        { "value": "use_screen_one_half", "label": "One half of screen height"},
-        { "value": "use_screen_one_third", "label": "One third of screen height"},
-        { "value": "use_screen_one_fifth", "label": "One fifth of screen height"},
+        { "value": "use_screen_full", "label": "Full screen height" },
+        { "value": "use_screen_three_quarters", "label": "Three quarters of screen height" },
+        { "value": "use_screen_two_thirds", "label": "Two thirds of screen height" },
+        { "value": "use_screen_one_half", "label": "One half of screen height" },
+        { "value": "use_screen_one_third", "label": "One third of screen height" },
+        { "value": "use_screen_one_fifth", "label": "One fifth of screen height" },
         { "value": "use_pixels_800", "label": "800px" },
         { "value": "use_pixels_650", "label": "650px" },
         { "value": "use_pixels_500", "label": "500px" },
-        { "value": "use_image", "label": "Image height"}
+        { "value": "use_image", "label": "Image height" }
       ]
     },
     {
-      "type":    "range",
-      "id":      "overlay_opacity",
-      "min":     0,
-      "max":     100,
-      "step":    5,
-      "label":   "Image overlay opacity",
-      "info":    "Increase contrast for legible text.",
+      "type": "range",
+      "id": "overlay_opacity",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "label": "Image overlay opacity",
+      "info": "Increase contrast for legible text.",
       "default": 15
     },
     {
@@ -182,15 +205,15 @@
       "label": "Alignment",
       "default": "align--middle-center",
       "options": [
-        { "value": "align--top-left", "label": "Top left"},
-        { "value": "align--top-center", "label": "Top center"},
-        { "value": "align--top-right", "label": "Top right"},
-        { "value": "align--middle-left", "label": "Middle left"},
-        { "value": "align--middle-center", "label": "Absolute center"},
-        { "value": "align--middle-right", "label": "Middle right"},
-        { "value": "align--bottom-left", "label": "Bottom left"},
-        { "value": "align--bottom-center", "label": "Bottom center"},
-        { "value": "align--bottom-right", "label": "Bottom right"}
+        { "value": "align--top-left", "label": "Top left" },
+        { "value": "align--top-center", "label": "Top center" },
+        { "value": "align--top-right", "label": "Top right" },
+        { "value": "align--middle-left", "label": "Middle left" },
+        { "value": "align--middle-center", "label": "Absolute center" },
+        { "value": "align--middle-right", "label": "Middle right" },
+        { "value": "align--bottom-left", "label": "Bottom left" },
+        { "value": "align--bottom-center", "label": "Bottom center" },
+        { "value": "align--bottom-right", "label": "Bottom right" }
       ]
     },
     {
@@ -199,14 +222,14 @@
       "label": "Text color",
       "default": "text--white",
       "options": [
-        { "value": "text--neutral", "label": "Normal text"},
-        { "value": "text--white", "label": "White"},
-        { "value": "text--primary", "label": "Primary accent"},
-        { "value": "text--secondary", "label": "Secondary accent"},
-        { "value": "text--black", "label": "Black"},
-        { "value": "text--invert--primary", "label": "Primary dark accent"},
-        { "value": "text--invert--secondary", "label": "Secondary dark accent"},
-        { "value": "text--invert", "label": "Inverted text color"}
+        { "value": "text--neutral", "label": "Normal text" },
+        { "value": "text--white", "label": "White" },
+        { "value": "text--primary", "label": "Primary accent" },
+        { "value": "text--secondary", "label": "Secondary accent" },
+        { "value": "text--black", "label": "Black" },
+        { "value": "text--invert--primary", "label": "Primary dark accent" },
+        { "value": "text--invert--secondary", "label": "Secondary dark accent" },
+        { "value": "text--invert", "label": "Inverted text color" }
       ]
     },
     {
@@ -244,9 +267,9 @@
       "label": "Button style",
       "default": "btn",
       "options": [
-        { "value": "btn", "label": "Solid button"},
-        { "value": "btn--soft", "label": "Soft button"},
-        { "value": "btn--outline", "label": "Outlined button"}
+        { "value": "btn", "label": "Solid button" },
+        { "value": "btn--soft", "label": "Soft button" },
+        { "value": "btn--outline", "label": "Outlined button" }
       ]
     }
   ],

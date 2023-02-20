@@ -1,0 +1,172 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "f8817c39-4b80-4469-aec3-184c779f8225": {
+      "type": "image-description",
+      "settings": {
+        "heading": "Agee Lineberry",
+        "path_image": "shopify:\/\/shop_images\/path.webp",
+        "image": "shopify:\/\/shop_images\/img.webp",
+        "description": "Born and raised in the beautiful Hawaiian islands, Keala is one of the best female surfers in the world and arguably the best female big wave surfer on the planet. Keala spent 11 years competing at the highest level on the ASP World Championship Tour finishing runner-up to the World Title",
+        "padding_top": 130,
+        "padding_bottom": 120
+      }
+    },
+    "df1e06d2-f052-41a9-ab09-7ab5939b5c3e": {
+      "type": "image-slider",
+      "blocks": {
+        "b5413a7e-5d03-44ff-818f-68f0522d7fa2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_3.png",
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "be9413c9-d88d-40e8-b238-a1340dd64c7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2.png",
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "29168f80-d680-4b0c-a224-4969fbe488f2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_c05fcbcc-2c25-45c4-b854-3dcda90f5b9c.png",
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "c67dc3f0-ab97-4037-9002-070e6f537368": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_1_b0acbc1e-f07d-46c6-b717-fe6c159d2c73.png",
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "183b6662-591f-406d-b583-6936c814cdca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_4.png",
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "67ac0598-96f9-444f-bd3e-ab734b441d86": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2.png",
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "455b91fb-a38c-46f2-9f4c-b0ba79b4aa9a": {
+          "type": "image",
+          "settings": {
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "ee5c2a4a-6c6b-4f66-babd-af4fabe475ef": {
+          "type": "image",
+          "settings": {
+            "product_url": "",
+            "text": ""
+          }
+        },
+        "81c35f13-799d-49f3-a18b-17cfef58eed9": {
+          "type": "image",
+          "settings": {
+            "product_url": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "b5413a7e-5d03-44ff-818f-68f0522d7fa2",
+        "be9413c9-d88d-40e8-b238-a1340dd64c7e",
+        "29168f80-d680-4b0c-a224-4969fbe488f2",
+        "c67dc3f0-ab97-4037-9002-070e6f537368",
+        "183b6662-591f-406d-b583-6936c814cdca",
+        "67ac0598-96f9-444f-bd3e-ab734b441d86",
+        "455b91fb-a38c-46f2-9f4c-b0ba79b4aa9a",
+        "ee5c2a4a-6c6b-4f66-babd-af4fabe475ef",
+        "81c35f13-799d-49f3-a18b-17cfef58eed9"
+      ],
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "fd55b281-5575-48d7-acd9-169baf0d7245": {
+      "type": "custom-two-images-vertical",
+      "settings": {
+        "image1": "shopify:\/\/shop_images\/img_1.webp",
+        "top_url": "",
+        "image2": "shopify:\/\/shop_images\/img.webp",
+        "bottom_url": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "f6e2defa-9238-4565-b488-dfe1a372ff91": {
+      "type": "footer-new",
+      "disabled": true,
+      "settings": {
+        "image1": "shopify:\/\/shop_images\/Image_7.png",
+        "image2": "shopify:\/\/shop_images\/Image_4_ccfc7dd8-1f80-4bc4-b1d1-80291bbcd1fb.png",
+        "title1": "",
+        "link1": "",
+        "title2": "",
+        "link2": "",
+        "title3": "",
+        "link3": "",
+        "title4": "",
+        "link4": "",
+        "html": "<div style='text-align: center; padding: 90px 0;'><h2 class='home__subtitle'>Custom HTML<\/h2><p>Add your custom HTML here.<\/p><\/div>"
+      }
+    },
+    "d0559036-5edc-4c09-ae7a-c903999fa77e": {
+      "type": "new-footer",
+      "disabled": true,
+      "settings": {
+        "image1": "shopify:\/\/shop_images\/Image_7.png",
+        "image2": "shopify:\/\/shop_images\/Image_1_0301e4d6-16ea-4ae5-bd3f-57968ebf2564.png",
+        "linktitle_1": "",
+        "link_1": "",
+        "linktitle_2": "",
+        "link_2": "",
+        "linktitle_3": "",
+        "link_3": "",
+        "linktitle_4": "",
+        "link_4": "",
+        "footer_description": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f8817c39-4b80-4469-aec3-184c779f8225",
+    "df1e06d2-f052-41a9-ab09-7ab5939b5c3e",
+    "fd55b281-5575-48d7-acd9-169baf0d7245",
+    "f6e2defa-9238-4565-b488-dfe1a372ff91",
+    "d0559036-5edc-4c09-ae7a-c903999fa77e"
+  ]
+}
